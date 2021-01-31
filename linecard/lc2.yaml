@@ -1,0 +1,11 @@
+role: linecard
+siteID: 101001
+systemID: Linecard_B
+controller: [192.168.99.71:443]
+srloc: [ INET|1000|1000|192.168.99.78:5546|]
+interface: [ 1234|veth0|1.0.0.1/24| ]
+routetarget: [ 1234/2:2/2:2 ]
+rekey: 12
+route: [ 1234/10.168.22.0/24->1.0.0.99, 1234/10.168.22.0/24->1.0.0.99]
+Lat: 31.224
+Long: 121.469

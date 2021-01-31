@@ -1,0 +1,16 @@
+{
+  "CN": "SRoUEtcd",
+  "key": {
+    "algo": "rsa",
+    "size": 4096
+  },
+  "names": [
+    {
+      "C": "CN",
+      "L": "Shanghai",
+      "O": "ETCD",
+      "OU": "SRoU",
+      "ST": "Shanghai"
+    }
+  ]
+}

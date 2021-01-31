@@ -1,0 +1,19 @@
+{
+  "CN": "etcd-client",
+  "hosts": [
+    ""
+  ],
+  "key": {
+    "algo": "rsa",
+    "size": 4096
+  },
+  "names": [
+    {
+      "C": "CN",
+      "L": "Shanghai",
+      "ST": "Shanghai",
+      "O": "ETCD",
+      "OU": "SRoU"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+role: analytic
+siteID: 100
+systemID: ELK_EXPORTER
+controller: [192.168.99.71:443,192.168.99.72:443,192.168.99.73:443]
+srloc: [ INET|1000|1000|192.168.99.79:17788| ]
+rekey: 12

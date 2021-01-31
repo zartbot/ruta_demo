@@ -1,0 +1,8 @@
+role: stun
+siteID: 100
+systemID: 1.0.0.1
+controller: [192.168.99.71:443]
+srloc: [ INET|1000|1000|192.168.99.74:5555|192.168.99.74:5555]
+interface: [ ]
+routetarget: [ ]
+rekey: 12

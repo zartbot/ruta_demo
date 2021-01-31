@@ -1,0 +1,24 @@
+{
+  "CN": "etcd-server",
+  "hosts": [
+    "localhost",
+    "0.0.0.0",
+    "192.168.99.71",
+    "192.168.99.72",
+    "192.168.99.73"
+  ],
+  "key": {
+    "algo": "rsa",
+    "size": 4096
+  },
+  "names": [
+    {
+      "C": "CN",
+      "L": "Shanghai",
+      "O": "ETCD",
+      "OU": "SRoU",
+      "ST": "Shanghai"
+    }
+  ]
+}
+
