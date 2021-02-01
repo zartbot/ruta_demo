@@ -8,6 +8,9 @@
 - This project is written by golang, we could support multiple platform include X86/ARM/MIPS 
 - This demo is verified by Unbuntu 20.04 only.
 
+## Chinese version Demo guide
+https://mp.weixin.qq.com/s/L1Svw3D3nnCcrgkqAlFEfA
+
 ## 1. IP address and topology
 
 The pre-configed topology shows as below:
@@ -97,6 +100,44 @@ srloc: [ INET|1000|1000|192.168.99.74:5555|192.168.99.74:5555]
 ```
 
 ## 6. Start Fabric Service
+
+on Fabric1(192.168.99.75)
+```bash
+cd /opt/ruta_demo/fabric
+./fabric -c=fabric1.yaml
+```
+
+on Fabric2(192.168.99.76)
+```bash
+cd /opt/ruta_demo/fabric
+./fabric -c=fabric2.yaml
+```
+
+## 7. Start Linecard service
+on Linecard1(192.168.99.77)
+```bash
+cd /opt/ruta_demo/linecard
+./veth_lc1.sh
+sudo ./linecard -c=lc1.yaml
+./ping_gw.sh
+```
+on Linecard2(192.168.99.78)
+
+```bash
+cd /opt/ruta_demo/linecard
+./veth_lc2.sh
+sudo ./linecard -c=lc2.yaml
+./ping_gw.sh
+./ping_lc1.sh
+```
+
+## 8. Ops
+```bash
+cd /opt/ruta_demo/ops
+./monitor
+./listen
+```
+
 
 
 
