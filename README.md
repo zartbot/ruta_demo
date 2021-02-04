@@ -1,5 +1,9 @@
 # Ruta Demo 
 
+## Why Ruta
+https://mp.weixin.qq.com/s/ah7O82IuydHSmBhM1RA2Fg
+https://mp.weixin.qq.com/s/w_weqkLNLXyoPCsguvfQxg
+
 ## Notice
 - This is a demo lab for ruta project.
 - ETCD connections are encrypted with TLS.
@@ -10,6 +14,8 @@
 
 ## Chinese version Demo guide
 https://mp.weixin.qq.com/s/L1Svw3D3nnCcrgkqAlFEfA
+
+
 
 ## 1. IP address and topology
 
