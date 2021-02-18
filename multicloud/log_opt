@@ -1,0 +1,536 @@
+          ALI_London <--> ALI_Tokoyo            RTT:  297.15ms    DROP:  0.0%
+         Honkong-DMZ <--> ALI_KualaLumpur       RTT:   80.74ms    DROP:  0.0%
+         Honkong-DMZ <--> TE_SanJose            RTT:  202.57ms    DROP:  0.0%
+        TE_Guangzhou <--> ALI_Guangzhou         RTT:   32.90ms    DROP:  0.0%
+       ALI_Guangzhou <--> ALI_Tokoyo            RTT:   67.17ms    DROP: 23.0%
+        TE_Guangzhou <--> ALI_Singapore         RTT:   45.32ms    DROP:  0.0%
+           TE_Tokoyo <--> ALI_SanJose           RTT:  109.33ms    DROP:  0.0%
+        ALI_Hangzhou <--> ALI_Tokoyo            RTT:   76.68ms    DROP:  0.0%
+         Honkong-DMZ <--> ALI_Jakarta           RTT:   87.18ms    DROP:  1.0%
+       ALI_Guangzhou <--> ALI_Virginia          RTT:  268.35ms    DROP: 26.0%
+         ALI_Jakarta <--> TE_Tokoyo             RTT:   96.46ms    DROP:  0.0%
+     ALI_KualaLumpur <--> ALI_Singapore         RTT:    7.13ms    DROP:  0.0%
+          ALI_London <--> ALI_Singapore         RTT:  187.65ms    DROP:  0.0%
+          ALI_Sydney <--> ALI_Singapore         RTT:   87.95ms    DROP:  0.0%
+        ALI_Virginia <--> TE_Moscow             RTT:  133.00ms    DROP:  1.0%
+         ALI_Beijing <--> ALI_Virginia          RTT:  232.89ms    DROP: 27.0%
+         ALI_Beijing <--> TE_Moscow             RTT:  214.53ms    DROP: 21.0%
+         ALI_Chengdu <--> ALI_Guangzhou         RTT:   36.33ms    DROP:  0.0%
+          ALI_Mumbai <--> ALI_Jakarta           RTT:   81.21ms    DROP:  0.0%
+       ALI_Frankfurt <--> ALI_KualaLumpur       RTT:  181.73ms    DROP:  0.0%
+          ALI_Mumbai <--> ALI_Hongkong          RTT:   87.81ms    DROP:  0.0%
+           TE_Moscow <--> ALI_Jakarta           RTT:  373.57ms    DROP:  0.0%
+           TE_Tokoyo <--> ALI_Chengdu           RTT:  112.25ms    DROP: 11.0%
+         ALI_Beijing <--> ALI_Jakarta           RTT:  235.47ms    DROP: 30.0%
+       ALI_Frankfurt <--> ALI_Beijing           RTT:  270.04ms    DROP:  1.0%
+     ALI_KualaLumpur <--> TE_Moscow             RTT:  274.15ms    DROP:  0.0%
+       ALI_Singapore <--> ALI_Hangzhou          RTT:   71.84ms    DROP:  0.0%
+       ALI_Singapore <--> ALI_Jakarta           RTT:   13.79ms    DROP:  0.0%
+         Honkong-DMZ <--> ALI_Sydney            RTT:  155.43ms    DROP:  0.0%
+           TE_Moscow <--> ALI_London            RTT:   50.89ms    DROP:  2.0%
+        ALI_Hangzhou <--> ALI_Frankfurt         RTT:  285.38ms    DROP:  0.0%
+     ALI_KualaLumpur <--> ALI_London            RTT:  187.23ms    DROP:  0.0%
+          ALI_Mumbai <--> ALI_Hangzhou          RTT:  431.02ms    DROP:  0.0%
+         ALI_SanJose <--> ALI_KualaLumpur       RTT:  210.97ms    DROP:  0.0%
+          ALI_Tokoyo <--> ALI_Hongkong          RTT:   52.34ms    DROP:  0.0%
+          TE_SanJose <--> TE_Moscow             RTT:  194.69ms    DROP:  0.0%
+           TE_Tokoyo <--> ALI_Frankfurt         RTT:  267.25ms    DROP:  0.0%
+       ALI_Frankfurt <--> ALI_Mumbai            RTT:  186.56ms    DROP:  0.0%
+       ALI_Frankfurt <--> ALI_Sydney            RTT:  281.93ms    DROP:  1.0%
+       ALI_Singapore <--> ALI_Beijing           RTT:   90.50ms    DROP:  0.0%
+           TE_Moscow <--> ALI_Chengdu           RTT:  253.42ms    DROP:  7.0%
+          TE_SanJose <--> ALI_Guangzhou         RTT:  177.16ms    DROP: 30.0%
+           TE_Tokoyo <--> ALI_Sydney            RTT:  140.13ms    DROP:  0.0%
+         ALI_Jakarta <--> ALI_Guangzhou         RTT:  242.95ms    DROP: 21.0%
+         ALI_SanJose <--> TE_Guangzhou          RTT:  170.97ms    DROP: 39.0%
+       ALI_Guangzhou <--> ALI_Beijing           RTT:   39.49ms    DROP:  0.0%
+          TE_SanJose <--> ALI_Beijing           RTT:  164.04ms    DROP: 28.0%
+          TE_SanJose <--> ALI_SanJose           RTT:    1.91ms    DROP:  0.0%
+         ALI_Chengdu <--> ALI_Jakarta           RTT:  223.61ms    DROP: 14.0%
+          ALI_London <--> ALI_Guangzhou         RTT:  289.94ms    DROP:  8.0%
+          ALI_Sydney <--> ALI_Beijing           RTT:  220.07ms    DROP:  0.0%
+          ALI_Tokoyo <--> ALI_Mumbai            RTT:  149.67ms    DROP:  0.0%
+          ALI_Tokoyo <--> ALI_SanJose           RTT:  108.08ms    DROP:  0.0%
+        TE_Guangzhou <--> ALI_Hangzhou          RTT:   31.08ms    DROP:  0.0%
+        TE_Guangzhou <--> ALI_Mumbai            RTT:  363.87ms    DROP:  7.0%
+     ALI_KualaLumpur <--> ALI_Sydney            RTT:  208.98ms    DROP:  0.0%
+          ALI_Sydney <--> ALI_London            RTT:  285.13ms    DROP:  0.0%
+           TE_Moscow <--> ALI_SanJose           RTT:  180.39ms    DROP:  0.0%
+        ALI_Hangzhou <--> ALI_Hongkong          RTT:   65.11ms    DROP:  0.0%
+          ALI_London <--> ALI_Hangzhou          RTT:  300.96ms    DROP:  1.0%
+     ALI_KualaLumpur <--> ALI_Virginia          RTT:  268.47ms    DROP:  0.0%
+          ALI_London <--> TE_Tokoyo             RTT:  313.77ms    DROP:  0.0%
+          ALI_Mumbai <--> ALI_KualaLumpur       RTT:  192.40ms    DROP:  0.0%
+         ALI_SanJose <--> ALI_Singapore         RTT:  195.95ms    DROP:  0.0%
+       ALI_Singapore <--> ALI_Tokoyo            RTT:   95.63ms    DROP:  0.0%
+          ALI_Tokoyo <--> ALI_KualaLumpur       RTT:  100.46ms    DROP:  0.0%
+       ALI_Frankfurt <--> ALI_Singapore         RTT:  194.41ms    DROP:  0.0%
+        ALI_Hangzhou <--> ALI_Beijing           RTT:   30.11ms    DROP:  0.0%
+          ALI_Tokoyo <--> TE_Tokoyo             RTT:    3.10ms    DROP:  0.0%
+         Honkong-DMZ <--> ALI_Singapore         RTT:   74.97ms    DROP:  0.0%
+         ALI_Jakarta <--> TE_Guangzhou          RTT:  184.84ms    DROP: 53.0%
+         Honkong-DMZ <--> ALI_SanJose           RTT:  191.22ms    DROP:  0.0%
+         ALI_Jakarta <--> ALI_SanJose           RTT:  217.27ms    DROP:  0.0%
+          ALI_London <--> TE_Guangzhou          RTT:  257.03ms    DROP: 16.0%
+          ALI_Mumbai <--> ALI_Virginia          RTT:  307.46ms    DROP:  0.0%
+        ALI_Virginia <--> Honkong-DMZ           RTT:  251.91ms    DROP:  0.0%
+         ALI_Chengdu <--> ALI_Mumbai            RTT:  259.72ms    DROP:  8.0%
+        ALI_Hongkong <--> ALI_Jakarta           RTT:   46.12ms    DROP:  0.0%
+          TE_SanJose <--> ALI_Hongkong          RTT:  145.10ms    DROP:  0.0%
+         ALI_Chengdu <--> TE_SanJose            RTT:  238.35ms    DROP: 32.0%
+       ALI_Frankfurt <--> ALI_Chengdu           RTT:  365.31ms    DROP:  0.0%
+       ALI_Frankfurt <--> ALI_Hongkong          RTT:  149.17ms    DROP:  0.0%
+        ALI_Hongkong <--> Honkong-DMZ           RTT:   38.15ms    DROP:  0.0%
+           TE_Moscow <--> Honkong-DMZ           RTT:  280.99ms    DROP:  0.0%
+          TE_SanJose <--> ALI_Virginia          RTT:   68.17ms    DROP:  0.0%
+        TE_Guangzhou <--> ALI_Virginia          RTT:  252.96ms    DROP: 24.0%
+     ALI_KualaLumpur <--> ALI_Jakarta           RTT:   19.92ms    DROP:  0.0%
+          ALI_London <--> ALI_Jakarta           RTT:  199.96ms    DROP:  0.0%
+          ALI_Mumbai <--> ALI_London            RTT:  121.17ms    DROP:  0.0%
+       ALI_Guangzhou <--> ALI_Singapore         RTT:   71.61ms    DROP:  0.0%
+        ALI_Hongkong <--> TE_Guangzhou          RTT:  347.33ms    DROP: 39.0%
+        ALI_Virginia <--> ALI_Singapore         RTT:  246.80ms    DROP:  0.0%
+           TE_Moscow <--> ALI_Frankfurt         RTT:   42.28ms    DROP:  0.0%
+           TE_Tokoyo <--> ALI_Singapore         RTT:   80.03ms    DROP:  0.0%
+         ALI_Chengdu <--> ALI_Hongkong          RTT:   81.87ms    DROP:  0.0%
+        ALI_Hangzhou <--> ALI_Chengdu           RTT:   38.64ms    DROP:  0.0%
+         ALI_Jakarta <--> ALI_Hangzhou          RTT:  133.81ms    DROP: 12.0%
+     ALI_KualaLumpur <--> ALI_Beijing           RTT:  229.35ms    DROP: 28.0%
+         Honkong-DMZ <--> ALI_Chengdu           RTT:   82.91ms    DROP:  0.0%
+         Honkong-DMZ <--> ALI_London            RTT:  297.26ms    DROP:  0.0%
+         ALI_Chengdu <--> ALI_KualaLumpur       RTT:  135.14ms    DROP:  0.0%
+       ALI_Frankfurt <--> ALI_SanJose           RTT:  170.89ms    DROP:  0.0%
+           TE_Moscow <--> ALI_Mumbai            RTT:  164.86ms    DROP:  0.0%
+        TE_Guangzhou <--> ALI_Chengdu           RTT:   30.81ms    DROP:  0.0%
+        TE_Guangzhou <--> ALI_Sydney            RTT:  426.03ms    DROP:  3.0%
+          ALI_London <--> ALI_Beijing           RTT:  168.99ms    DROP: 35.0%
+        ALI_Virginia <--> ALI_Sydney            RTT:  282.43ms    DROP:  0.0%
+         Honkong-DMZ <--> ALI_Hangzhou          RTT:   78.06ms    DROP:  0.0%
+           TE_Tokoyo <--> ALI_Virginia          RTT:  169.30ms    DROP:  0.0%
+        ALI_Hongkong <--> TE_Moscow             RTT:  295.53ms    DROP:  0.0%
+         ALI_SanJose <--> ALI_Guangzhou         RTT:  187.86ms    DROP: 20.0%
+           TE_Moscow <--> ALI_Singapore         RTT:  217.85ms    DROP:  0.0%
+           TE_Tokoyo <--> ALI_Beijing           RTT:   74.32ms    DROP:  5.0%
+           TE_Tokoyo <--> TE_SanJose            RTT:  208.80ms    DROP:  0.0%
+        ALI_Hongkong <--> ALI_KualaLumpur       RTT:   39.82ms    DROP:  0.0%
+           TE_Moscow <--> ALI_Guangzhou         RTT:  258.16ms    DROP:  0.0%
+           TE_Tokoyo <--> ALI_KualaLumpur       RTT:   77.17ms    DROP:  0.0%
+         ALI_Beijing <--> ALI_Tokoyo            RTT:   73.74ms    DROP: 19.0%
+          ALI_Sydney <--> TE_Moscow             RTT:  311.82ms    DROP:  0.0%
+          ALI_London <--> ALI_Hongkong          RTT:  165.52ms    DROP:  0.0%
+       ALI_Singapore <--> ALI_Chengdu           RTT:   80.30ms    DROP:  0.0%
+        ALI_Hongkong <--> ALI_Virginia          RTT:  255.53ms    DROP:  0.0%
+          TE_SanJose <--> ALI_Frankfurt         RTT:  210.74ms    DROP:  3.0%
+        TE_Guangzhou <--> Honkong-DMZ           RTT:   47.95ms    DROP:  1.0%
+          TE_SanJose <--> ALI_Tokoyo            RTT:  103.49ms    DROP:  0.0%
+         ALI_Beijing <--> Honkong-DMZ           RTT:   96.79ms    DROP:  0.0%
+          ALI_Sydney <--> ALI_Jakarta           RTT:  106.55ms    DROP:  0.0%
+        ALI_Virginia <--> ALI_Jakarta           RTT:  258.31ms    DROP:  0.0%
+        ALI_Virginia <--> ALI_London            RTT:   81.18ms    DROP:  0.0%
+          ALI_Mumbai <--> ALI_SanJose           RTT:  243.24ms    DROP:  0.0%
+         ALI_SanJose <--> ALI_Sydney            RTT:  169.09ms    DROP:  0.0%
+        TE_Guangzhou <--> TE_Moscow             RTT:  249.60ms    DROP: 27.0%
+         ALI_Chengdu <--> ALI_Beijing           RTT:   59.96ms    DROP:  0.0%
+         ALI_Jakarta <--> TE_SanJose            RTT:  181.47ms    DROP:  0.0%
+     ALI_KualaLumpur <--> TE_Guangzhou          RTT:  179.09ms    DROP: 29.0%
+          ALI_London <--> ALI_Frankfurt         RTT:   13.44ms    DROP:  0.0%
+          ALI_Tokoyo <--> ALI_Chengdu           RTT:   70.48ms    DROP:  0.0%
+          ALI_Tokoyo <--> ALI_Frankfurt         RTT:  206.25ms    DROP:  0.0%
+         ALI_Jakarta <--> ALI_Tokoyo            RTT:  107.55ms    DROP:  0.0%
+       ALI_Guangzhou <--> TE_Tokoyo             RTT:   97.01ms    DROP: 17.0%
+        ALI_Hangzhou <--> ALI_SanJose           RTT:  295.89ms    DROP: 10.0%
+        ALI_Hangzhou <--> ALI_Virginia          RTT:  277.32ms    DROP:  0.0%
+        ALI_Hangzhou <--> TE_SanJose            RTT:  218.37ms    DROP: 25.0%
+        ALI_Hongkong <--> ALI_Beijing           RTT:   82.85ms    DROP:  0.0%
+         ALI_Jakarta <--> ALI_Frankfurt         RTT:  185.55ms    DROP:  0.0%
+         ALI_Chengdu <--> ALI_SanJose           RTT:  322.97ms    DROP: 16.0%
+       ALI_Frankfurt <--> Honkong-DMZ           RTT:  282.02ms    DROP:  0.0%
+          ALI_Mumbai <--> ALI_Beijing           RTT:  327.07ms    DROP: 35.0%
+           TE_Tokoyo <--> TE_Guangzhou          RTT:  198.26ms    DROP:  8.0%
+        ALI_Hongkong <--> TE_Tokoyo             RTT:   58.25ms    DROP:  0.0%
+          ALI_Mumbai <--> ALI_Guangzhou         RTT:  350.09ms    DROP: 10.0%
+          ALI_London <--> ALI_SanJose           RTT:  158.86ms    DROP:  0.0%
+          ALI_Sydney <--> ALI_Hongkong          RTT:  125.23ms    DROP:  0.0%
+        ALI_Virginia <--> ALI_Frankfurt         RTT:   97.40ms    DROP:  0.0%
+        TE_Guangzhou <--> ALI_Frankfurt         RTT:  218.03ms    DROP: 17.0%
+          TE_SanJose <--> ALI_London            RTT:  132.86ms    DROP:  0.0%
+        ALI_Hongkong <--> ALI_Guangzhou         RTT:   71.60ms    DROP:  0.0%
+           TE_Tokoyo <--> ALI_Hangzhou          RTT:   77.40ms    DROP:  3.0%
+          ALI_Sydney <--> ALI_Guangzhou         RTT:  220.60ms    DROP:  0.0%
+           TE_Moscow <--> TE_Tokoyo             RTT:  165.41ms    DROP:  0.0%
+        ALI_Virginia <--> ALI_SanJose           RTT:   59.17ms    DROP:  0.0%
+         Honkong-DMZ <--> TE_Tokoyo             RTT:   85.24ms    DROP:  0.0%
+     ALI_KualaLumpur <--> TE_SanJose            RTT:  202.50ms    DROP:  0.0%
+         ALI_SanJose <--> ALI_Beijing           RTT:  176.00ms    DROP:  0.0%
+           TE_Moscow <--> ALI_Hangzhou          RTT:  256.46ms    DROP:  9.0%
+         ALI_SanJose <--> ALI_Hongkong          RTT:  162.55ms    DROP:  0.0%
+          ALI_Sydney <--> TE_SanJose            RTT:  147.71ms    DROP:  0.0%
+          ALI_Tokoyo <--> ALI_Virginia          RTT:  179.75ms    DROP:  0.0%
+          ALI_Mumbai <--> ALI_Singapore         RTT:   62.77ms    DROP:  0.0%
+          ALI_Mumbai <--> Honkong-DMZ           RTT:  136.12ms    DROP:  0.0%
+          TE_SanJose <--> TE_Guangzhou          RTT:  160.42ms    DROP:  0.0%
+         ALI_Beijing <--> TE_Guangzhou          RTT:   43.12ms    DROP:  0.0%
+          ALI_Mumbai <--> TE_Tokoyo             RTT:  237.18ms    DROP:  0.0%
+        ALI_Hangzhou <--> ALI_KualaLumpur       RTT:   79.50ms    DROP:  0.0%
+          ALI_Sydney <--> ALI_Mumbai            RTT:  150.86ms    DROP:  0.0%
+        ALI_Virginia <--> ALI_Chengdu           RTT:  293.34ms    DROP:  0.0%
+       ALI_Guangzhou <--> Honkong-DMZ           RTT:   79.81ms    DROP:  0.0%
+       ALI_Singapore <--> ALI_Hongkong          RTT:   34.57ms    DROP:  0.0%
+       ALI_Guangzhou <--> ALI_KualaLumpur       RTT:  234.11ms    DROP: 21.0%
+          ALI_London <--> ALI_Chengdu           RTT:  250.90ms    DROP:  3.0%
+          ALI_Tokoyo <--> ALI_Sydney            RTT:  226.42ms    DROP:  0.0%
+       ALI_Singapore <--> TE_SanJose            RTT:  171.98ms    DROP:  0.0%
+        ALI_Hangzhou <--> ALI_Sydney            RTT:  195.42ms    DROP:  0.0%
+       ALI_Frankfurt <--> ALI_Guangzhou         RTT:  375.33ms    DROP:  3.0%
+           TE_Moscow <--> ALI_Tokoyo            RTT:  204.81ms    DROP:  1.0%
+        TE_Guangzhou <--> ALI_Tokoyo            RTT:   62.64ms    DROP: 25.0%
+          TE_SanJose <--> ALI_Mumbai            RTT:  264.79ms    DROP:  0.0%
+        ALI_Hangzhou <--> ALI_Guangzhou         RTT:   29.90ms    DROP:  0.0%
+          ALI_Sydney <--> ALI_Chengdu           RTT:  221.27ms    DROP:  0.0%
+          ALI_Tokoyo <--> Honkong-DMZ           RTT:   89.17ms    DROP:  0.0%
+---------------------------------------------------Low Latency Path Optimization------------------------------------------------------------------------
+        TE_Guangzhou ---> ALI_SanJose           RTT:    162.33ms   OriginRTT:    170.97ms  Delta:      -8.65ms Hops: 2    LowLatency PATH:[  TE_Guangzhou      ]----- 160.4ms----->[  TE_SanJose        ]-----   1.9ms----->[  ALI_SanJose       ] 
+        TE_Guangzhou ---> ALI_Jakarta           RTT:     59.11ms   OriginRTT:    184.84ms  Delta:    -125.73ms Hops: 2    LowLatency PATH:[  TE_Guangzhou      ]-----  45.3ms----->[  ALI_Singapore     ]-----  13.8ms----->[  ALI_Jakarta       ] 
+        TE_Guangzhou ---> ALI_Sydney            RTT:    133.27ms   OriginRTT:    426.03ms  Delta:    -292.76ms Hops: 2    LowLatency PATH:[  TE_Guangzhou      ]-----  45.3ms----->[  ALI_Singapore     ]-----  87.9ms----->[  ALI_Sydney        ] 
+        TE_Guangzhou ---> ALI_Mumbai            RTT:    108.10ms   OriginRTT:    363.87ms  Delta:    -255.78ms Hops: 2    LowLatency PATH:[  TE_Guangzhou      ]-----  45.3ms----->[  ALI_Singapore     ]-----  62.8ms----->[  ALI_Mumbai        ] 
+        TE_Guangzhou ---> TE_Tokoyo             RTT:     65.74ms   OriginRTT:    198.26ms  Delta:    -132.52ms Hops: 2    LowLatency PATH:[  TE_Guangzhou      ]-----  62.6ms----->[  ALI_Tokoyo        ]-----   3.1ms----->[  TE_Tokoyo         ] 
+        TE_Guangzhou ---> ALI_Virginia          RTT:    221.49ms   OriginRTT:    252.96ms  Delta:     -31.47ms Hops: 3    LowLatency PATH:[  TE_Guangzhou      ]----- 160.4ms----->[  TE_SanJose        ]-----   1.9ms----->[  ALI_SanJose       ]-----  59.2ms----->[  ALI_Virginia      ] 
+        TE_Guangzhou ---> ALI_Hongkong          RTT:     79.89ms   OriginRTT:    347.33ms  Delta:    -267.44ms Hops: 2    LowLatency PATH:[  TE_Guangzhou      ]-----  45.3ms----->[  ALI_Singapore     ]-----  34.6ms----->[  ALI_Hongkong      ] 
+        TE_Guangzhou ---> ALI_KualaLumpur       RTT:     52.45ms   OriginRTT:    179.09ms  Delta:    -126.64ms Hops: 2    LowLatency PATH:[  TE_Guangzhou      ]-----  45.3ms----->[  ALI_Singapore     ]-----   7.1ms----->[  ALI_KualaLumpur   ] 
+        TE_Guangzhou ---> ALI_London            RTT:    212.11ms   OriginRTT:    257.03ms  Delta:     -44.93ms Hops: 2    LowLatency PATH:[  TE_Guangzhou      ]-----  43.1ms----->[  ALI_Beijing       ]----- 169.0ms----->[  ALI_London        ] 
+        TE_Guangzhou ---> TE_Moscow             RTT:    231.14ms   OriginRTT:    249.60ms  Delta:     -18.45ms Hops: 3    LowLatency PATH:[  TE_Guangzhou      ]-----  62.6ms----->[  ALI_Tokoyo        ]-----   3.1ms----->[  TE_Tokoyo         ]----- 165.4ms----->[  TE_Moscow         ] 
+           TE_Moscow ---> TE_SanJose            RTT:    182.30ms   OriginRTT:    194.69ms  Delta:     -12.39ms Hops: 2    LowLatency PATH:[  TE_Moscow         ]----- 180.4ms----->[  ALI_SanJose       ]-----   1.9ms----->[  TE_SanJose        ] 
+           TE_Moscow ---> ALI_Virginia          RTT:    132.07ms   OriginRTT:    133.00ms  Delta:      -0.93ms Hops: 2    LowLatency PATH:[  TE_Moscow         ]-----  50.9ms----->[  ALI_London        ]-----  81.2ms----->[  ALI_Virginia      ] 
+           TE_Moscow ---> ALI_Hongkong          RTT:    191.45ms   OriginRTT:    295.53ms  Delta:    -104.08ms Hops: 2    LowLatency PATH:[  TE_Moscow         ]-----  42.3ms----->[  ALI_Frankfurt     ]----- 149.2ms----->[  ALI_Hongkong      ] 
+           TE_Moscow ---> ALI_Tokoyo            RTT:    168.51ms   OriginRTT:    204.81ms  Delta:     -36.31ms Hops: 2    LowLatency PATH:[  TE_Moscow         ]----- 165.4ms----->[  TE_Tokoyo         ]-----   3.1ms----->[  ALI_Tokoyo        ] 
+           TE_Moscow ---> ALI_KualaLumpur       RTT:    224.01ms   OriginRTT:    274.15ms  Delta:     -50.14ms Hops: 2    LowLatency PATH:[  TE_Moscow         ]-----  42.3ms----->[  ALI_Frankfurt     ]----- 181.7ms----->[  ALI_KualaLumpur   ] 
+           TE_Moscow ---> ALI_Chengdu           RTT:    238.98ms   OriginRTT:    253.42ms  Delta:     -14.44ms Hops: 3    LowLatency PATH:[  TE_Moscow         ]----- 165.4ms----->[  TE_Tokoyo         ]-----   3.1ms----->[  ALI_Tokoyo        ]-----  70.5ms----->[  ALI_Chengdu       ] 
+           TE_Moscow ---> TE_Guangzhou          RTT:    231.14ms   OriginRTT:    249.60ms  Delta:     -18.45ms Hops: 3    LowLatency PATH:[  TE_Moscow         ]----- 165.4ms----->[  TE_Tokoyo         ]-----   3.1ms----->[  ALI_Tokoyo        ]-----  62.6ms----->[  TE_Guangzhou      ] 
+           TE_Moscow ---> ALI_Jakarta           RTT:    227.83ms   OriginRTT:    373.57ms  Delta:    -145.73ms Hops: 2    LowLatency PATH:[  TE_Moscow         ]-----  42.3ms----->[  ALI_Frankfurt     ]----- 185.6ms----->[  ALI_Jakarta       ] 
+           TE_Moscow ---> ALI_Sydney            RTT:    305.54ms   OriginRTT:    311.82ms  Delta:      -6.28ms Hops: 2    LowLatency PATH:[  TE_Moscow         ]----- 165.4ms----->[  TE_Tokoyo         ]----- 140.1ms----->[  ALI_Sydney        ] 
+           TE_Moscow ---> Honkong-DMZ           RTT:    229.60ms   OriginRTT:    280.99ms  Delta:     -51.40ms Hops: 3    LowLatency PATH:[  TE_Moscow         ]-----  42.3ms----->[  ALI_Frankfurt     ]----- 149.2ms----->[  ALI_Hongkong      ]-----  38.1ms----->[  Honkong-DMZ       ] 
+           TE_Moscow ---> ALI_Guangzhou         RTT:    235.68ms   OriginRTT:    258.16ms  Delta:     -22.48ms Hops: 3    LowLatency PATH:[  TE_Moscow         ]----- 165.4ms----->[  TE_Tokoyo         ]-----   3.1ms----->[  ALI_Tokoyo        ]-----  67.2ms----->[  ALI_Guangzhou     ] 
+           TE_Moscow ---> ALI_Hangzhou          RTT:    242.81ms   OriginRTT:    256.46ms  Delta:     -13.65ms Hops: 2    LowLatency PATH:[  TE_Moscow         ]----- 165.4ms----->[  TE_Tokoyo         ]-----  77.4ms----->[  ALI_Hangzhou      ] 
+          ALI_London ---> TE_Guangzhou          RTT:    212.11ms   OriginRTT:    257.03ms  Delta:     -44.93ms Hops: 2    LowLatency PATH:[  ALI_London        ]----- 169.0ms----->[  ALI_Beijing       ]-----  43.1ms----->[  TE_Guangzhou      ] 
+          ALI_London ---> ALI_Hangzhou          RTT:    199.10ms   OriginRTT:    300.96ms  Delta:    -101.86ms Hops: 2    LowLatency PATH:[  ALI_London        ]----- 169.0ms----->[  ALI_Beijing       ]-----  30.1ms----->[  ALI_Hangzhou      ] 
+          ALI_London ---> ALI_Jakarta           RTT:    197.74ms   OriginRTT:    199.96ms  Delta:      -2.22ms Hops: 3    LowLatency PATH:[  ALI_London        ]----- 121.2ms----->[  ALI_Mumbai        ]-----  62.8ms----->[  ALI_Singapore     ]-----  13.8ms----->[  ALI_Jakarta       ] 
+          ALI_London ---> ALI_Sydney            RTT:    271.89ms   OriginRTT:    285.13ms  Delta:     -13.24ms Hops: 3    LowLatency PATH:[  ALI_London        ]----- 121.2ms----->[  ALI_Mumbai        ]-----  62.8ms----->[  ALI_Singapore     ]-----  87.9ms----->[  ALI_Sydney        ] 
+          ALI_London ---> Honkong-DMZ           RTT:    200.75ms   OriginRTT:    297.26ms  Delta:     -96.51ms Hops: 3    LowLatency PATH:[  ALI_London        ]-----  13.4ms----->[  ALI_Frankfurt     ]----- 149.2ms----->[  ALI_Hongkong      ]-----  38.1ms----->[  Honkong-DMZ       ] 
+          ALI_London ---> ALI_Guangzhou         RTT:    208.48ms   OriginRTT:    289.94ms  Delta:     -81.46ms Hops: 2    LowLatency PATH:[  ALI_London        ]----- 169.0ms----->[  ALI_Beijing       ]-----  39.5ms----->[  ALI_Guangzhou     ] 
+          ALI_London ---> TE_Tokoyo             RTT:    216.30ms   OriginRTT:    313.77ms  Delta:     -97.47ms Hops: 2    LowLatency PATH:[  ALI_London        ]-----  50.9ms----->[  TE_Moscow         ]----- 165.4ms----->[  TE_Tokoyo         ] 
+          ALI_London ---> ALI_SanJose           RTT:    134.76ms   OriginRTT:    158.86ms  Delta:     -24.10ms Hops: 2    LowLatency PATH:[  ALI_London        ]----- 132.9ms----->[  TE_SanJose        ]-----   1.9ms----->[  ALI_SanJose       ] 
+          ALI_London ---> ALI_Hongkong          RTT:    162.60ms   OriginRTT:    165.52ms  Delta:      -2.92ms Hops: 2    LowLatency PATH:[  ALI_London        ]-----  13.4ms----->[  ALI_Frankfurt     ]----- 149.2ms----->[  ALI_Hongkong      ] 
+          ALI_London ---> ALI_Chengdu           RTT:    228.95ms   OriginRTT:    250.90ms  Delta:     -21.95ms Hops: 2    LowLatency PATH:[  ALI_London        ]----- 169.0ms----->[  ALI_Beijing       ]-----  60.0ms----->[  ALI_Chengdu       ] 
+          ALI_London ---> ALI_Tokoyo            RTT:    214.94ms   OriginRTT:    297.15ms  Delta:     -82.21ms Hops: 3    LowLatency PATH:[  ALI_London        ]-----  13.4ms----->[  ALI_Frankfurt     ]----- 149.2ms----->[  ALI_Hongkong      ]-----  52.3ms----->[  ALI_Tokoyo        ] 
+          ALI_London ---> ALI_Singapore         RTT:    183.95ms   OriginRTT:    187.65ms  Delta:      -3.71ms Hops: 2    LowLatency PATH:[  ALI_London        ]----- 121.2ms----->[  ALI_Mumbai        ]-----  62.8ms----->[  ALI_Singapore     ] 
+       ALI_Guangzhou ---> ALI_London            RTT:    208.48ms   OriginRTT:    289.94ms  Delta:     -81.46ms Hops: 2    LowLatency PATH:[  ALI_Guangzhou     ]-----  39.5ms----->[  ALI_Beijing       ]----- 169.0ms----->[  ALI_London        ] 
+       ALI_Guangzhou ---> TE_Moscow             RTT:    235.68ms   OriginRTT:    258.16ms  Delta:     -22.48ms Hops: 3    LowLatency PATH:[  ALI_Guangzhou     ]-----  67.2ms----->[  ALI_Tokoyo        ]-----   3.1ms----->[  TE_Tokoyo         ]----- 165.4ms----->[  TE_Moscow         ] 
+       ALI_Guangzhou ---> ALI_Mumbai            RTT:    134.39ms   OriginRTT:    350.09ms  Delta:    -215.70ms Hops: 2    LowLatency PATH:[  ALI_Guangzhou     ]-----  71.6ms----->[  ALI_Singapore     ]-----  62.8ms----->[  ALI_Mumbai        ] 
+       ALI_Guangzhou ---> TE_Tokoyo             RTT:     70.27ms   OriginRTT:     97.01ms  Delta:     -26.74ms Hops: 2    LowLatency PATH:[  ALI_Guangzhou     ]-----  67.2ms----->[  ALI_Tokoyo        ]-----   3.1ms----->[  TE_Tokoyo         ] 
+       ALI_Guangzhou ---> ALI_SanJose           RTT:    172.57ms   OriginRTT:    187.86ms  Delta:     -15.30ms Hops: 3    LowLatency PATH:[  ALI_Guangzhou     ]-----  67.2ms----->[  ALI_Tokoyo        ]----- 103.5ms----->[  TE_SanJose        ]-----   1.9ms----->[  ALI_SanJose       ] 
+       ALI_Guangzhou ---> ALI_Jakarta           RTT:     85.40ms   OriginRTT:    242.95ms  Delta:    -157.55ms Hops: 2    LowLatency PATH:[  ALI_Guangzhou     ]-----  71.6ms----->[  ALI_Singapore     ]-----  13.8ms----->[  ALI_Jakarta       ] 
+       ALI_Guangzhou ---> ALI_Sydney            RTT:    159.56ms   OriginRTT:    220.60ms  Delta:     -61.04ms Hops: 2    LowLatency PATH:[  ALI_Guangzhou     ]-----  71.6ms----->[  ALI_Singapore     ]-----  87.9ms----->[  ALI_Sydney        ] 
+       ALI_Guangzhou ---> ALI_Frankfurt         RTT:    220.77ms   OriginRTT:    375.33ms  Delta:    -154.57ms Hops: 2    LowLatency PATH:[  ALI_Guangzhou     ]-----  71.6ms----->[  ALI_Hongkong      ]----- 149.2ms----->[  ALI_Frankfurt     ] 
+       ALI_Guangzhou ---> TE_SanJose            RTT:    170.66ms   OriginRTT:    177.16ms  Delta:      -6.50ms Hops: 2    LowLatency PATH:[  ALI_Guangzhou     ]-----  67.2ms----->[  ALI_Tokoyo        ]----- 103.5ms----->[  TE_SanJose        ] 
+       ALI_Guangzhou ---> ALI_Virginia          RTT:    231.74ms   OriginRTT:    268.35ms  Delta:     -36.61ms Hops: 4    LowLatency PATH:[  ALI_Guangzhou     ]-----  67.2ms----->[  ALI_Tokoyo        ]----- 103.5ms----->[  TE_SanJose        ]-----   1.9ms----->[  ALI_SanJose       ]-----  59.2ms----->[  ALI_Virginia      ] 
+       ALI_Guangzhou ---> ALI_KualaLumpur       RTT:     78.74ms   OriginRTT:    234.11ms  Delta:    -155.38ms Hops: 2    LowLatency PATH:[  ALI_Guangzhou     ]-----  71.6ms----->[  ALI_Singapore     ]-----   7.1ms----->[  ALI_KualaLumpur   ] 
+           TE_Tokoyo ---> ALI_Chengdu           RTT:     73.58ms   OriginRTT:    112.25ms  Delta:     -38.67ms Hops: 2    LowLatency PATH:[  TE_Tokoyo         ]-----   3.1ms----->[  ALI_Tokoyo        ]-----  70.5ms----->[  ALI_Chengdu       ] 
+           TE_Tokoyo ---> ALI_London            RTT:    216.30ms   OriginRTT:    313.77ms  Delta:     -97.47ms Hops: 2    LowLatency PATH:[  TE_Tokoyo         ]----- 165.4ms----->[  TE_Moscow         ]-----  50.9ms----->[  ALI_London        ] 
+           TE_Tokoyo ---> TE_Guangzhou          RTT:     65.74ms   OriginRTT:    198.26ms  Delta:    -132.52ms Hops: 2    LowLatency PATH:[  TE_Tokoyo         ]-----   3.1ms----->[  ALI_Tokoyo        ]-----  62.6ms----->[  TE_Guangzhou      ] 
+           TE_Tokoyo ---> ALI_Mumbai            RTT:    142.81ms   OriginRTT:    237.18ms  Delta:     -94.37ms Hops: 2    LowLatency PATH:[  TE_Tokoyo         ]-----  80.0ms----->[  ALI_Singapore     ]-----  62.8ms----->[  ALI_Mumbai        ] 
+           TE_Tokoyo ---> ALI_Guangzhou         RTT:     70.27ms   OriginRTT:     97.01ms  Delta:     -26.74ms Hops: 2    LowLatency PATH:[  TE_Tokoyo         ]-----   3.1ms----->[  ALI_Tokoyo        ]-----  67.2ms----->[  ALI_Guangzhou     ] 
+           TE_Tokoyo ---> ALI_SanJose           RTT:    108.49ms   OriginRTT:    109.33ms  Delta:      -0.84ms Hops: 3    LowLatency PATH:[  TE_Tokoyo         ]-----   3.1ms----->[  ALI_Tokoyo        ]----- 103.5ms----->[  TE_SanJose        ]-----   1.9ms----->[  ALI_SanJose       ] 
+           TE_Tokoyo ---> ALI_Jakarta           RTT:     93.83ms   OriginRTT:     96.46ms  Delta:      -2.64ms Hops: 2    LowLatency PATH:[  TE_Tokoyo         ]-----  80.0ms----->[  ALI_Singapore     ]-----  13.8ms----->[  ALI_Jakarta       ] 
+           TE_Tokoyo ---> ALI_Frankfurt         RTT:    204.61ms   OriginRTT:    267.25ms  Delta:     -62.64ms Hops: 3    LowLatency PATH:[  TE_Tokoyo         ]-----   3.1ms----->[  ALI_Tokoyo        ]-----  52.3ms----->[  ALI_Hongkong      ]----- 149.2ms----->[  ALI_Frankfurt     ] 
+           TE_Tokoyo ---> TE_SanJose            RTT:    106.58ms   OriginRTT:    208.80ms  Delta:    -102.21ms Hops: 2    LowLatency PATH:[  TE_Tokoyo         ]-----   3.1ms----->[  ALI_Tokoyo        ]----- 103.5ms----->[  TE_SanJose        ] 
+           TE_Tokoyo ---> ALI_Virginia          RTT:    167.66ms   OriginRTT:    169.30ms  Delta:      -1.65ms Hops: 4    LowLatency PATH:[  TE_Tokoyo         ]-----   3.1ms----->[  ALI_Tokoyo        ]----- 103.5ms----->[  TE_SanJose        ]-----   1.9ms----->[  ALI_SanJose       ]-----  59.2ms----->[  ALI_Virginia      ] 
+           TE_Tokoyo ---> ALI_Hongkong          RTT:     55.44ms   OriginRTT:     58.25ms  Delta:      -2.81ms Hops: 2    LowLatency PATH:[  TE_Tokoyo         ]-----   3.1ms----->[  ALI_Tokoyo        ]-----  52.3ms----->[  ALI_Hongkong      ] 
+         ALI_SanJose ---> TE_Tokoyo             RTT:    108.49ms   OriginRTT:    109.33ms  Delta:      -0.84ms Hops: 3    LowLatency PATH:[  ALI_SanJose       ]-----   1.9ms----->[  TE_SanJose        ]----- 103.5ms----->[  ALI_Tokoyo        ]-----   3.1ms----->[  TE_Tokoyo         ] 
+         ALI_SanJose ---> ALI_Hangzhou          RTT:    182.07ms   OriginRTT:    295.89ms  Delta:    -113.82ms Hops: 3    LowLatency PATH:[  ALI_SanJose       ]-----   1.9ms----->[  TE_SanJose        ]----- 103.5ms----->[  ALI_Tokoyo        ]-----  76.7ms----->[  ALI_Hangzhou      ] 
+         ALI_SanJose ---> ALI_Jakarta           RTT:    183.37ms   OriginRTT:    217.27ms  Delta:     -33.89ms Hops: 2    LowLatency PATH:[  ALI_SanJose       ]-----   1.9ms----->[  TE_SanJose        ]----- 181.5ms----->[  ALI_Jakarta       ] 
+         ALI_SanJose ---> ALI_Sydney            RTT:    149.61ms   OriginRTT:    169.09ms  Delta:     -19.47ms Hops: 2    LowLatency PATH:[  ALI_SanJose       ]-----   1.9ms----->[  TE_SanJose        ]----- 147.7ms----->[  ALI_Sydney        ] 
+         ALI_SanJose ---> ALI_Mumbai            RTT:    234.81ms   OriginRTT:    243.24ms  Delta:      -8.44ms Hops: 3    LowLatency PATH:[  ALI_SanJose       ]-----   1.9ms----->[  TE_SanJose        ]----- 145.1ms----->[  ALI_Hongkong      ]-----  87.8ms----->[  ALI_Mumbai        ] 
+         ALI_SanJose ---> Honkong-DMZ           RTT:    185.15ms   OriginRTT:    191.22ms  Delta:      -6.07ms Hops: 3    LowLatency PATH:[  ALI_SanJose       ]-----   1.9ms----->[  TE_SanJose        ]----- 145.1ms----->[  ALI_Hongkong      ]-----  38.1ms----->[  Honkong-DMZ       ] 
+         ALI_SanJose ---> ALI_Guangzhou         RTT:    172.57ms   OriginRTT:    187.86ms  Delta:     -15.30ms Hops: 3    LowLatency PATH:[  ALI_SanJose       ]-----   1.9ms----->[  TE_SanJose        ]----- 103.5ms----->[  ALI_Tokoyo        ]-----  67.2ms----->[  ALI_Guangzhou     ] 
+         ALI_SanJose ---> ALI_Frankfurt         RTT:    148.20ms   OriginRTT:    170.89ms  Delta:     -22.69ms Hops: 3    LowLatency PATH:[  ALI_SanJose       ]-----   1.9ms----->[  TE_SanJose        ]----- 132.9ms----->[  ALI_London        ]-----  13.4ms----->[  ALI_Frankfurt     ] 
+         ALI_SanJose ---> ALI_Hongkong          RTT:    147.00ms   OriginRTT:    162.55ms  Delta:     -15.55ms Hops: 2    LowLatency PATH:[  ALI_SanJose       ]-----   1.9ms----->[  TE_SanJose        ]----- 145.1ms----->[  ALI_Hongkong      ] 
+         ALI_SanJose ---> ALI_Singapore         RTT:    173.89ms   OriginRTT:    195.95ms  Delta:     -22.06ms Hops: 2    LowLatency PATH:[  ALI_SanJose       ]-----   1.9ms----->[  TE_SanJose        ]----- 172.0ms----->[  ALI_Singapore     ] 
+         ALI_SanJose ---> ALI_Beijing           RTT:    165.94ms   OriginRTT:    176.00ms  Delta:     -10.06ms Hops: 2    LowLatency PATH:[  ALI_SanJose       ]-----   1.9ms----->[  TE_SanJose        ]----- 164.0ms----->[  ALI_Beijing       ] 
+         ALI_SanJose ---> ALI_Chengdu           RTT:    175.87ms   OriginRTT:    322.97ms  Delta:    -147.10ms Hops: 3    LowLatency PATH:[  ALI_SanJose       ]-----   1.9ms----->[  TE_SanJose        ]----- 103.5ms----->[  ALI_Tokoyo        ]-----  70.5ms----->[  ALI_Chengdu       ] 
+         ALI_SanJose ---> ALI_Tokoyo            RTT:    105.39ms   OriginRTT:    108.08ms  Delta:      -2.69ms Hops: 2    LowLatency PATH:[  ALI_SanJose       ]-----   1.9ms----->[  TE_SanJose        ]----- 103.5ms----->[  ALI_Tokoyo        ] 
+         ALI_SanJose ---> ALI_KualaLumpur       RTT:    181.01ms   OriginRTT:    210.97ms  Delta:     -29.95ms Hops: 3    LowLatency PATH:[  ALI_SanJose       ]-----   1.9ms----->[  TE_SanJose        ]----- 172.0ms----->[  ALI_Singapore     ]-----   7.1ms----->[  ALI_KualaLumpur   ] 
+         ALI_SanJose ---> ALI_London            RTT:    134.76ms   OriginRTT:    158.86ms  Delta:     -24.10ms Hops: 2    LowLatency PATH:[  ALI_SanJose       ]-----   1.9ms----->[  TE_SanJose        ]----- 132.9ms----->[  ALI_London        ] 
+         ALI_SanJose ---> TE_Guangzhou          RTT:    162.33ms   OriginRTT:    170.97ms  Delta:      -8.65ms Hops: 2    LowLatency PATH:[  ALI_SanJose       ]-----   1.9ms----->[  TE_SanJose        ]----- 160.4ms----->[  TE_Guangzhou      ] 
+        ALI_Hangzhou ---> TE_SanJose            RTT:    180.16ms   OriginRTT:    218.37ms  Delta:     -38.21ms Hops: 2    LowLatency PATH:[  ALI_Hangzhou      ]-----  76.7ms----->[  ALI_Tokoyo        ]----- 103.5ms----->[  TE_SanJose        ] 
+        ALI_Hangzhou ---> ALI_Virginia          RTT:    241.24ms   OriginRTT:    277.32ms  Delta:     -36.08ms Hops: 4    LowLatency PATH:[  ALI_Hangzhou      ]-----  76.7ms----->[  ALI_Tokoyo        ]----- 103.5ms----->[  TE_SanJose        ]-----   1.9ms----->[  ALI_SanJose       ]-----  59.2ms----->[  ALI_Virginia      ] 
+        ALI_Hangzhou ---> ALI_KualaLumpur       RTT:     78.97ms   OriginRTT:     79.50ms  Delta:      -0.53ms Hops: 2    LowLatency PATH:[  ALI_Hangzhou      ]-----  71.8ms----->[  ALI_Singapore     ]-----   7.1ms----->[  ALI_KualaLumpur   ] 
+        ALI_Hangzhou ---> ALI_London            RTT:    199.10ms   OriginRTT:    300.96ms  Delta:    -101.86ms Hops: 2    LowLatency PATH:[  ALI_Hangzhou      ]-----  30.1ms----->[  ALI_Beijing       ]----- 169.0ms----->[  ALI_London        ] 
+        ALI_Hangzhou ---> TE_Moscow             RTT:    242.81ms   OriginRTT:    256.46ms  Delta:     -13.65ms Hops: 2    LowLatency PATH:[  ALI_Hangzhou      ]-----  77.4ms----->[  TE_Tokoyo         ]----- 165.4ms----->[  TE_Moscow         ] 
+        ALI_Hangzhou ---> ALI_SanJose           RTT:    182.07ms   OriginRTT:    295.89ms  Delta:    -113.82ms Hops: 3    LowLatency PATH:[  ALI_Hangzhou      ]-----  76.7ms----->[  ALI_Tokoyo        ]----- 103.5ms----->[  TE_SanJose        ]-----   1.9ms----->[  ALI_SanJose       ] 
+        ALI_Hangzhou ---> ALI_Jakarta           RTT:     85.63ms   OriginRTT:    133.81ms  Delta:     -48.18ms Hops: 2    LowLatency PATH:[  ALI_Hangzhou      ]-----  71.8ms----->[  ALI_Singapore     ]-----  13.8ms----->[  ALI_Jakarta       ] 
+        ALI_Hangzhou ---> ALI_Sydney            RTT:    159.79ms   OriginRTT:    195.42ms  Delta:     -35.63ms Hops: 2    LowLatency PATH:[  ALI_Hangzhou      ]-----  71.8ms----->[  ALI_Singapore     ]-----  87.9ms----->[  ALI_Sydney        ] 
+        ALI_Hangzhou ---> ALI_Mumbai            RTT:    134.62ms   OriginRTT:    431.02ms  Delta:    -296.40ms Hops: 2    LowLatency PATH:[  ALI_Hangzhou      ]-----  71.8ms----->[  ALI_Singapore     ]-----  62.8ms----->[  ALI_Mumbai        ] 
+        ALI_Hangzhou ---> ALI_Frankfurt         RTT:    212.53ms   OriginRTT:    285.38ms  Delta:     -72.85ms Hops: 3    LowLatency PATH:[  ALI_Hangzhou      ]-----  30.1ms----->[  ALI_Beijing       ]----- 169.0ms----->[  ALI_London        ]-----  13.4ms----->[  ALI_Frankfurt     ] 
+         ALI_Jakarta ---> ALI_Virginia          RTT:    242.54ms   OriginRTT:    258.31ms  Delta:     -15.77ms Hops: 3    LowLatency PATH:[  ALI_Jakarta       ]----- 181.5ms----->[  TE_SanJose        ]-----   1.9ms----->[  ALI_SanJose       ]-----  59.2ms----->[  ALI_Virginia      ] 
+         ALI_Jakarta ---> ALI_Beijing           RTT:    102.23ms   OriginRTT:    235.47ms  Delta:    -133.23ms Hops: 3    LowLatency PATH:[  ALI_Jakarta       ]-----  13.8ms----->[  ALI_Singapore     ]-----  45.3ms----->[  TE_Guangzhou      ]-----  43.1ms----->[  ALI_Beijing       ] 
+         ALI_Jakarta ---> ALI_Chengdu           RTT:     89.93ms   OriginRTT:    223.61ms  Delta:    -133.68ms Hops: 3    LowLatency PATH:[  ALI_Jakarta       ]-----  13.8ms----->[  ALI_Singapore     ]-----  45.3ms----->[  TE_Guangzhou      ]-----  30.8ms----->[  ALI_Chengdu       ] 
+         ALI_Jakarta ---> ALI_Tokoyo            RTT:     96.92ms   OriginRTT:    107.55ms  Delta:     -10.62ms Hops: 3    LowLatency PATH:[  ALI_Jakarta       ]-----  13.8ms----->[  ALI_Singapore     ]-----  80.0ms----->[  TE_Tokoyo         ]-----   3.1ms----->[  ALI_Tokoyo        ] 
+         ALI_Jakarta ---> TE_Moscow             RTT:    227.83ms   OriginRTT:    373.57ms  Delta:    -145.73ms Hops: 2    LowLatency PATH:[  ALI_Jakarta       ]----- 185.6ms----->[  ALI_Frankfurt     ]-----  42.3ms----->[  TE_Moscow         ] 
+         ALI_Jakarta ---> ALI_London            RTT:    197.74ms   OriginRTT:    199.96ms  Delta:      -2.22ms Hops: 3    LowLatency PATH:[  ALI_Jakarta       ]-----  13.8ms----->[  ALI_Singapore     ]-----  62.8ms----->[  ALI_Mumbai        ]----- 121.2ms----->[  ALI_London        ] 
+         ALI_Jakarta ---> TE_Guangzhou          RTT:     59.11ms   OriginRTT:    184.84ms  Delta:    -125.73ms Hops: 2    LowLatency PATH:[  ALI_Jakarta       ]-----  13.8ms----->[  ALI_Singapore     ]-----  45.3ms----->[  TE_Guangzhou      ] 
+         ALI_Jakarta ---> TE_Tokoyo             RTT:     93.83ms   OriginRTT:     96.46ms  Delta:      -2.64ms Hops: 2    LowLatency PATH:[  ALI_Jakarta       ]-----  13.8ms----->[  ALI_Singapore     ]-----  80.0ms----->[  TE_Tokoyo         ] 
+         ALI_Jakarta ---> ALI_SanJose           RTT:    183.37ms   OriginRTT:    217.27ms  Delta:     -33.89ms Hops: 2    LowLatency PATH:[  ALI_Jakarta       ]----- 181.5ms----->[  TE_SanJose        ]-----   1.9ms----->[  ALI_SanJose       ] 
+         ALI_Jakarta ---> ALI_Hangzhou          RTT:     85.63ms   OriginRTT:    133.81ms  Delta:     -48.18ms Hops: 2    LowLatency PATH:[  ALI_Jakarta       ]-----  13.8ms----->[  ALI_Singapore     ]-----  71.8ms----->[  ALI_Hangzhou      ] 
+         ALI_Jakarta ---> ALI_Sydney            RTT:    101.74ms   OriginRTT:    106.55ms  Delta:      -4.82ms Hops: 2    LowLatency PATH:[  ALI_Jakarta       ]-----  13.8ms----->[  ALI_Singapore     ]-----  87.9ms----->[  ALI_Sydney        ] 
+         ALI_Jakarta ---> ALI_Mumbai            RTT:     76.57ms   OriginRTT:     81.21ms  Delta:      -4.64ms Hops: 2    LowLatency PATH:[  ALI_Jakarta       ]-----  13.8ms----->[  ALI_Singapore     ]-----  62.8ms----->[  ALI_Mumbai        ] 
+         ALI_Jakarta ---> Honkong-DMZ           RTT:     84.26ms   OriginRTT:     87.18ms  Delta:      -2.92ms Hops: 2    LowLatency PATH:[  ALI_Jakarta       ]-----  46.1ms----->[  ALI_Hongkong      ]-----  38.1ms----->[  Honkong-DMZ       ] 
+         ALI_Jakarta ---> ALI_Guangzhou         RTT:     85.40ms   OriginRTT:    242.95ms  Delta:    -157.55ms Hops: 2    LowLatency PATH:[  ALI_Jakarta       ]-----  13.8ms----->[  ALI_Singapore     ]-----  71.6ms----->[  ALI_Guangzhou     ] 
+          ALI_Sydney ---> ALI_Mumbai            RTT:    150.72ms   OriginRTT:    150.86ms  Delta:      -0.14ms Hops: 2    LowLatency PATH:[  ALI_Sydney        ]-----  87.9ms----->[  ALI_Singapore     ]-----  62.8ms----->[  ALI_Mumbai        ] 
+          ALI_Sydney ---> ALI_Guangzhou         RTT:    159.56ms   OriginRTT:    220.60ms  Delta:     -61.04ms Hops: 2    LowLatency PATH:[  ALI_Sydney        ]-----  87.9ms----->[  ALI_Singapore     ]-----  71.6ms----->[  ALI_Guangzhou     ] 
+          ALI_Sydney ---> ALI_SanJose           RTT:    149.61ms   OriginRTT:    169.09ms  Delta:     -19.47ms Hops: 2    LowLatency PATH:[  ALI_Sydney        ]----- 147.7ms----->[  TE_SanJose        ]-----   1.9ms----->[  ALI_SanJose       ] 
+          ALI_Sydney ---> ALI_Hangzhou          RTT:    159.79ms   OriginRTT:    195.42ms  Delta:     -35.63ms Hops: 2    LowLatency PATH:[  ALI_Sydney        ]-----  87.9ms----->[  ALI_Singapore     ]-----  71.8ms----->[  ALI_Hangzhou      ] 
+          ALI_Sydney ---> ALI_Jakarta           RTT:    101.74ms   OriginRTT:    106.55ms  Delta:      -4.82ms Hops: 2    LowLatency PATH:[  ALI_Sydney        ]-----  87.9ms----->[  ALI_Singapore     ]-----  13.8ms----->[  ALI_Jakarta       ] 
+          ALI_Sydney ---> ALI_Frankfurt         RTT:    271.68ms   OriginRTT:    281.93ms  Delta:     -10.25ms Hops: 3    LowLatency PATH:[  ALI_Sydney        ]-----  87.9ms----->[  ALI_Singapore     ]-----  34.6ms----->[  ALI_Hongkong      ]----- 149.2ms----->[  ALI_Frankfurt     ] 
+          ALI_Sydney ---> ALI_Virginia          RTT:    208.78ms   OriginRTT:    282.43ms  Delta:     -73.65ms Hops: 3    LowLatency PATH:[  ALI_Sydney        ]----- 147.7ms----->[  TE_SanJose        ]-----   1.9ms----->[  ALI_SanJose       ]-----  59.2ms----->[  ALI_Virginia      ] 
+          ALI_Sydney ---> ALI_Hongkong          RTT:    122.52ms   OriginRTT:    125.23ms  Delta:      -2.71ms Hops: 2    LowLatency PATH:[  ALI_Sydney        ]-----  87.9ms----->[  ALI_Singapore     ]-----  34.6ms----->[  ALI_Hongkong      ] 
+          ALI_Sydney ---> ALI_Tokoyo            RTT:    143.23ms   OriginRTT:    226.42ms  Delta:     -83.19ms Hops: 2    LowLatency PATH:[  ALI_Sydney        ]----- 140.1ms----->[  TE_Tokoyo         ]-----   3.1ms----->[  ALI_Tokoyo        ] 
+          ALI_Sydney ---> ALI_KualaLumpur       RTT:     95.07ms   OriginRTT:    208.98ms  Delta:    -113.91ms Hops: 2    LowLatency PATH:[  ALI_Sydney        ]-----  87.9ms----->[  ALI_Singapore     ]-----   7.1ms----->[  ALI_KualaLumpur   ] 
+          ALI_Sydney ---> ALI_Beijing           RTT:    176.39ms   OriginRTT:    220.07ms  Delta:     -43.69ms Hops: 3    LowLatency PATH:[  ALI_Sydney        ]-----  87.9ms----->[  ALI_Singapore     ]-----  45.3ms----->[  TE_Guangzhou      ]-----  43.1ms----->[  ALI_Beijing       ] 
+          ALI_Sydney ---> ALI_Chengdu           RTT:    164.08ms   OriginRTT:    221.27ms  Delta:     -57.19ms Hops: 3    LowLatency PATH:[  ALI_Sydney        ]-----  87.9ms----->[  ALI_Singapore     ]-----  45.3ms----->[  TE_Guangzhou      ]-----  30.8ms----->[  ALI_Chengdu       ] 
+          ALI_Sydney ---> ALI_London            RTT:    271.89ms   OriginRTT:    285.13ms  Delta:     -13.24ms Hops: 3    LowLatency PATH:[  ALI_Sydney        ]-----  87.9ms----->[  ALI_Singapore     ]-----  62.8ms----->[  ALI_Mumbai        ]----- 121.2ms----->[  ALI_London        ] 
+          ALI_Sydney ---> TE_Guangzhou          RTT:    133.27ms   OriginRTT:    426.03ms  Delta:    -292.76ms Hops: 2    LowLatency PATH:[  ALI_Sydney        ]-----  87.9ms----->[  ALI_Singapore     ]-----  45.3ms----->[  TE_Guangzhou      ] 
+          ALI_Sydney ---> TE_Moscow             RTT:    305.54ms   OriginRTT:    311.82ms  Delta:      -6.28ms Hops: 2    LowLatency PATH:[  ALI_Sydney        ]----- 140.1ms----->[  TE_Tokoyo         ]----- 165.4ms----->[  TE_Moscow         ] 
+          ALI_Mumbai ---> TE_SanJose            RTT:    232.90ms   OriginRTT:    264.79ms  Delta:     -31.89ms Hops: 2    LowLatency PATH:[  ALI_Mumbai        ]-----  87.8ms----->[  ALI_Hongkong      ]----- 145.1ms----->[  TE_SanJose        ] 
+          ALI_Mumbai ---> ALI_Virginia          RTT:    202.35ms   OriginRTT:    307.46ms  Delta:    -105.11ms Hops: 2    LowLatency PATH:[  ALI_Mumbai        ]----- 121.2ms----->[  ALI_London        ]-----  81.2ms----->[  ALI_Virginia      ] 
+          ALI_Mumbai ---> ALI_Tokoyo            RTT:    140.15ms   OriginRTT:    149.67ms  Delta:      -9.53ms Hops: 2    LowLatency PATH:[  ALI_Mumbai        ]-----  87.8ms----->[  ALI_Hongkong      ]-----  52.3ms----->[  ALI_Tokoyo        ] 
+          ALI_Mumbai ---> ALI_KualaLumpur       RTT:     69.90ms   OriginRTT:    192.40ms  Delta:    -122.50ms Hops: 2    LowLatency PATH:[  ALI_Mumbai        ]-----  62.8ms----->[  ALI_Singapore     ]-----   7.1ms----->[  ALI_KualaLumpur   ] 
+          ALI_Mumbai ---> ALI_Beijing           RTT:    151.22ms   OriginRTT:    327.07ms  Delta:    -175.85ms Hops: 3    LowLatency PATH:[  ALI_Mumbai        ]-----  62.8ms----->[  ALI_Singapore     ]-----  45.3ms----->[  TE_Guangzhou      ]-----  43.1ms----->[  ALI_Beijing       ] 
+          ALI_Mumbai ---> ALI_Chengdu           RTT:    138.91ms   OriginRTT:    259.72ms  Delta:    -120.81ms Hops: 3    LowLatency PATH:[  ALI_Mumbai        ]-----  62.8ms----->[  ALI_Singapore     ]-----  45.3ms----->[  TE_Guangzhou      ]-----  30.8ms----->[  ALI_Chengdu       ] 
+          ALI_Mumbai ---> TE_Guangzhou          RTT:    108.10ms   OriginRTT:    363.87ms  Delta:    -255.78ms Hops: 2    LowLatency PATH:[  ALI_Mumbai        ]-----  62.8ms----->[  ALI_Singapore     ]-----  45.3ms----->[  TE_Guangzhou      ] 
+          ALI_Mumbai ---> ALI_Sydney            RTT:    150.72ms   OriginRTT:    150.86ms  Delta:      -0.14ms Hops: 2    LowLatency PATH:[  ALI_Mumbai        ]-----  62.8ms----->[  ALI_Singapore     ]-----  87.9ms----->[  ALI_Sydney        ] 
+          ALI_Mumbai ---> Honkong-DMZ           RTT:    125.95ms   OriginRTT:    136.12ms  Delta:     -10.17ms Hops: 2    LowLatency PATH:[  ALI_Mumbai        ]-----  87.8ms----->[  ALI_Hongkong      ]-----  38.1ms----->[  Honkong-DMZ       ] 
+          ALI_Mumbai ---> ALI_Guangzhou         RTT:    134.39ms   OriginRTT:    350.09ms  Delta:    -215.70ms Hops: 2    LowLatency PATH:[  ALI_Mumbai        ]-----  62.8ms----->[  ALI_Singapore     ]-----  71.6ms----->[  ALI_Guangzhou     ] 
+          ALI_Mumbai ---> TE_Tokoyo             RTT:    142.81ms   OriginRTT:    237.18ms  Delta:     -94.37ms Hops: 2    LowLatency PATH:[  ALI_Mumbai        ]-----  62.8ms----->[  ALI_Singapore     ]-----  80.0ms----->[  TE_Tokoyo         ] 
+          ALI_Mumbai ---> ALI_SanJose           RTT:    234.81ms   OriginRTT:    243.24ms  Delta:      -8.44ms Hops: 3    LowLatency PATH:[  ALI_Mumbai        ]-----  87.8ms----->[  ALI_Hongkong      ]----- 145.1ms----->[  TE_SanJose        ]-----   1.9ms----->[  ALI_SanJose       ] 
+          ALI_Mumbai ---> ALI_Hangzhou          RTT:    134.62ms   OriginRTT:    431.02ms  Delta:    -296.40ms Hops: 2    LowLatency PATH:[  ALI_Mumbai        ]-----  62.8ms----->[  ALI_Singapore     ]-----  71.8ms----->[  ALI_Hangzhou      ] 
+          ALI_Mumbai ---> ALI_Jakarta           RTT:     76.57ms   OriginRTT:     81.21ms  Delta:      -4.64ms Hops: 2    LowLatency PATH:[  ALI_Mumbai        ]-----  62.8ms----->[  ALI_Singapore     ]-----  13.8ms----->[  ALI_Jakarta       ] 
+          ALI_Mumbai ---> ALI_Frankfurt         RTT:    134.61ms   OriginRTT:    186.56ms  Delta:     -51.95ms Hops: 2    LowLatency PATH:[  ALI_Mumbai        ]----- 121.2ms----->[  ALI_London        ]-----  13.4ms----->[  ALI_Frankfurt     ] 
+         Honkong-DMZ ---> TE_SanJose            RTT:    183.24ms   OriginRTT:    202.57ms  Delta:     -19.33ms Hops: 2    LowLatency PATH:[  Honkong-DMZ       ]-----  38.1ms----->[  ALI_Hongkong      ]----- 145.1ms----->[  TE_SanJose        ] 
+         Honkong-DMZ ---> ALI_Virginia          RTT:    244.32ms   OriginRTT:    251.91ms  Delta:      -7.59ms Hops: 4    LowLatency PATH:[  Honkong-DMZ       ]-----  38.1ms----->[  ALI_Hongkong      ]----- 145.1ms----->[  TE_SanJose        ]-----   1.9ms----->[  ALI_SanJose       ]-----  59.2ms----->[  ALI_Virginia      ] 
+         Honkong-DMZ ---> ALI_Beijing           RTT:     91.07ms   OriginRTT:     96.79ms  Delta:      -5.71ms Hops: 2    LowLatency PATH:[  Honkong-DMZ       ]-----  48.0ms----->[  TE_Guangzhou      ]-----  43.1ms----->[  ALI_Beijing       ] 
+         Honkong-DMZ ---> ALI_Chengdu           RTT:     78.77ms   OriginRTT:     82.91ms  Delta:      -4.14ms Hops: 2    LowLatency PATH:[  Honkong-DMZ       ]-----  48.0ms----->[  TE_Guangzhou      ]-----  30.8ms----->[  ALI_Chengdu       ] 
+         Honkong-DMZ ---> ALI_Tokoyo            RTT:     88.33ms   OriginRTT:     89.17ms  Delta:      -0.84ms Hops: 2    LowLatency PATH:[  Honkong-DMZ       ]-----  85.2ms----->[  TE_Tokoyo         ]-----   3.1ms----->[  ALI_Tokoyo        ] 
+         Honkong-DMZ ---> ALI_KualaLumpur       RTT:     77.97ms   OriginRTT:     80.74ms  Delta:      -2.78ms Hops: 2    LowLatency PATH:[  Honkong-DMZ       ]-----  38.1ms----->[  ALI_Hongkong      ]-----  39.8ms----->[  ALI_KualaLumpur   ] 
+         Honkong-DMZ ---> ALI_Singapore         RTT:     72.72ms   OriginRTT:     74.97ms  Delta:      -2.25ms Hops: 2    LowLatency PATH:[  Honkong-DMZ       ]-----  38.1ms----->[  ALI_Hongkong      ]-----  34.6ms----->[  ALI_Singapore     ] 
+         Honkong-DMZ ---> ALI_London            RTT:    200.75ms   OriginRTT:    297.26ms  Delta:     -96.51ms Hops: 3    LowLatency PATH:[  Honkong-DMZ       ]-----  38.1ms----->[  ALI_Hongkong      ]----- 149.2ms----->[  ALI_Frankfurt     ]-----  13.4ms----->[  ALI_London        ] 
+         Honkong-DMZ ---> TE_Moscow             RTT:    229.60ms   OriginRTT:    280.99ms  Delta:     -51.40ms Hops: 3    LowLatency PATH:[  Honkong-DMZ       ]-----  38.1ms----->[  ALI_Hongkong      ]----- 149.2ms----->[  ALI_Frankfurt     ]-----  42.3ms----->[  TE_Moscow         ] 
+         Honkong-DMZ ---> ALI_SanJose           RTT:    185.15ms   OriginRTT:    191.22ms  Delta:      -6.07ms Hops: 3    LowLatency PATH:[  Honkong-DMZ       ]-----  38.1ms----->[  ALI_Hongkong      ]----- 145.1ms----->[  TE_SanJose        ]-----   1.9ms----->[  ALI_SanJose       ] 
+         Honkong-DMZ ---> ALI_Jakarta           RTT:     84.26ms   OriginRTT:     87.18ms  Delta:      -2.92ms Hops: 2    LowLatency PATH:[  Honkong-DMZ       ]-----  38.1ms----->[  ALI_Hongkong      ]-----  46.1ms----->[  ALI_Jakarta       ] 
+         Honkong-DMZ ---> ALI_Mumbai            RTT:    125.95ms   OriginRTT:    136.12ms  Delta:     -10.17ms Hops: 2    LowLatency PATH:[  Honkong-DMZ       ]-----  38.1ms----->[  ALI_Hongkong      ]-----  87.8ms----->[  ALI_Mumbai        ] 
+         Honkong-DMZ ---> ALI_Frankfurt         RTT:    187.31ms   OriginRTT:    282.02ms  Delta:     -94.71ms Hops: 2    LowLatency PATH:[  Honkong-DMZ       ]-----  38.1ms----->[  ALI_Hongkong      ]----- 149.2ms----->[  ALI_Frankfurt     ] 
+       ALI_Frankfurt ---> ALI_Guangzhou         RTT:    220.77ms   OriginRTT:    375.33ms  Delta:    -154.57ms Hops: 2    LowLatency PATH:[  ALI_Frankfurt     ]----- 149.2ms----->[  ALI_Hongkong      ]-----  71.6ms----->[  ALI_Guangzhou     ] 
+       ALI_Frankfurt ---> TE_Tokoyo             RTT:    204.61ms   OriginRTT:    267.25ms  Delta:     -62.64ms Hops: 3    LowLatency PATH:[  ALI_Frankfurt     ]----- 149.2ms----->[  ALI_Hongkong      ]-----  52.3ms----->[  ALI_Tokoyo        ]-----   3.1ms----->[  TE_Tokoyo         ] 
+       ALI_Frankfurt ---> ALI_SanJose           RTT:    148.20ms   OriginRTT:    170.89ms  Delta:     -22.69ms Hops: 3    LowLatency PATH:[  ALI_Frankfurt     ]-----  13.4ms----->[  ALI_London        ]----- 132.9ms----->[  TE_SanJose        ]-----   1.9ms----->[  ALI_SanJose       ] 
+       ALI_Frankfurt ---> ALI_Hangzhou          RTT:    212.53ms   OriginRTT:    285.38ms  Delta:     -72.85ms Hops: 3    LowLatency PATH:[  ALI_Frankfurt     ]-----  13.4ms----->[  ALI_London        ]----- 169.0ms----->[  ALI_Beijing       ]-----  30.1ms----->[  ALI_Hangzhou      ] 
+       ALI_Frankfurt ---> ALI_Sydney            RTT:    271.68ms   OriginRTT:    281.93ms  Delta:     -10.25ms Hops: 3    LowLatency PATH:[  ALI_Frankfurt     ]----- 149.2ms----->[  ALI_Hongkong      ]-----  34.6ms----->[  ALI_Singapore     ]-----  87.9ms----->[  ALI_Sydney        ] 
+       ALI_Frankfurt ---> ALI_Mumbai            RTT:    134.61ms   OriginRTT:    186.56ms  Delta:     -51.95ms Hops: 2    LowLatency PATH:[  ALI_Frankfurt     ]-----  13.4ms----->[  ALI_London        ]----- 121.2ms----->[  ALI_Mumbai        ] 
+       ALI_Frankfurt ---> Honkong-DMZ           RTT:    187.31ms   OriginRTT:    282.02ms  Delta:     -94.71ms Hops: 2    LowLatency PATH:[  ALI_Frankfurt     ]----- 149.2ms----->[  ALI_Hongkong      ]-----  38.1ms----->[  Honkong-DMZ       ] 
+       ALI_Frankfurt ---> ALI_Virginia          RTT:     94.61ms   OriginRTT:     97.40ms  Delta:      -2.78ms Hops: 2    LowLatency PATH:[  ALI_Frankfurt     ]-----  13.4ms----->[  ALI_London        ]-----  81.2ms----->[  ALI_Virginia      ] 
+       ALI_Frankfurt ---> TE_SanJose            RTT:    146.29ms   OriginRTT:    210.74ms  Delta:     -64.45ms Hops: 2    LowLatency PATH:[  ALI_Frankfurt     ]-----  13.4ms----->[  ALI_London        ]----- 132.9ms----->[  TE_SanJose        ] 
+       ALI_Frankfurt ---> ALI_Singapore         RTT:    183.74ms   OriginRTT:    194.41ms  Delta:     -10.67ms Hops: 2    LowLatency PATH:[  ALI_Frankfurt     ]----- 149.2ms----->[  ALI_Hongkong      ]-----  34.6ms----->[  ALI_Singapore     ] 
+       ALI_Frankfurt ---> ALI_Beijing           RTT:    182.42ms   OriginRTT:    270.04ms  Delta:     -87.62ms Hops: 2    LowLatency PATH:[  ALI_Frankfurt     ]-----  13.4ms----->[  ALI_London        ]----- 169.0ms----->[  ALI_Beijing       ] 
+       ALI_Frankfurt ---> ALI_Chengdu           RTT:    231.04ms   OriginRTT:    365.31ms  Delta:    -134.27ms Hops: 2    LowLatency PATH:[  ALI_Frankfurt     ]----- 149.2ms----->[  ALI_Hongkong      ]-----  81.9ms----->[  ALI_Chengdu       ] 
+       ALI_Frankfurt ---> ALI_Tokoyo            RTT:    201.51ms   OriginRTT:    206.25ms  Delta:      -4.74ms Hops: 2    LowLatency PATH:[  ALI_Frankfurt     ]----- 149.2ms----->[  ALI_Hongkong      ]-----  52.3ms----->[  ALI_Tokoyo        ] 
+        ALI_Virginia ---> ALI_Beijing           RTT:    225.11ms   OriginRTT:    232.89ms  Delta:      -7.78ms Hops: 3    LowLatency PATH:[  ALI_Virginia      ]-----  59.2ms----->[  ALI_SanJose       ]-----   1.9ms----->[  TE_SanJose        ]----- 164.0ms----->[  ALI_Beijing       ] 
+        ALI_Virginia ---> ALI_Chengdu           RTT:    235.04ms   OriginRTT:    293.34ms  Delta:     -58.30ms Hops: 4    LowLatency PATH:[  ALI_Virginia      ]-----  59.2ms----->[  ALI_SanJose       ]-----   1.9ms----->[  TE_SanJose        ]----- 103.5ms----->[  ALI_Tokoyo        ]-----  70.5ms----->[  ALI_Chengdu       ] 
+        ALI_Virginia ---> ALI_Tokoyo            RTT:    164.56ms   OriginRTT:    179.75ms  Delta:     -15.19ms Hops: 3    LowLatency PATH:[  ALI_Virginia      ]-----  59.2ms----->[  ALI_SanJose       ]-----   1.9ms----->[  TE_SanJose        ]----- 103.5ms----->[  ALI_Tokoyo        ] 
+        ALI_Virginia ---> ALI_KualaLumpur       RTT:    240.18ms   OriginRTT:    268.47ms  Delta:     -28.29ms Hops: 4    LowLatency PATH:[  ALI_Virginia      ]-----  59.2ms----->[  ALI_SanJose       ]-----   1.9ms----->[  TE_SanJose        ]----- 172.0ms----->[  ALI_Singapore     ]-----   7.1ms----->[  ALI_KualaLumpur   ] 
+        ALI_Virginia ---> ALI_Singapore         RTT:    233.05ms   OriginRTT:    246.80ms  Delta:     -13.74ms Hops: 3    LowLatency PATH:[  ALI_Virginia      ]-----  59.2ms----->[  ALI_SanJose       ]-----   1.9ms----->[  TE_SanJose        ]----- 172.0ms----->[  ALI_Singapore     ] 
+        ALI_Virginia ---> TE_Guangzhou          RTT:    221.49ms   OriginRTT:    252.96ms  Delta:     -31.47ms Hops: 3    LowLatency PATH:[  ALI_Virginia      ]-----  59.2ms----->[  ALI_SanJose       ]-----   1.9ms----->[  TE_SanJose        ]----- 160.4ms----->[  TE_Guangzhou      ] 
+        ALI_Virginia ---> TE_Moscow             RTT:    132.07ms   OriginRTT:    133.00ms  Delta:      -0.93ms Hops: 2    LowLatency PATH:[  ALI_Virginia      ]-----  81.2ms----->[  ALI_London        ]-----  50.9ms----->[  TE_Moscow         ] 
+        ALI_Virginia ---> ALI_Hangzhou          RTT:    241.24ms   OriginRTT:    277.32ms  Delta:     -36.08ms Hops: 4    LowLatency PATH:[  ALI_Virginia      ]-----  59.2ms----->[  ALI_SanJose       ]-----   1.9ms----->[  TE_SanJose        ]----- 103.5ms----->[  ALI_Tokoyo        ]-----  76.7ms----->[  ALI_Hangzhou      ] 
+        ALI_Virginia ---> ALI_Jakarta           RTT:    242.54ms   OriginRTT:    258.31ms  Delta:     -15.77ms Hops: 3    LowLatency PATH:[  ALI_Virginia      ]-----  59.2ms----->[  ALI_SanJose       ]-----   1.9ms----->[  TE_SanJose        ]----- 181.5ms----->[  ALI_Jakarta       ] 
+        ALI_Virginia ---> ALI_Sydney            RTT:    208.78ms   OriginRTT:    282.43ms  Delta:     -73.65ms Hops: 3    LowLatency PATH:[  ALI_Virginia      ]-----  59.2ms----->[  ALI_SanJose       ]-----   1.9ms----->[  TE_SanJose        ]----- 147.7ms----->[  ALI_Sydney        ] 
+        ALI_Virginia ---> ALI_Mumbai            RTT:    202.35ms   OriginRTT:    307.46ms  Delta:    -105.11ms Hops: 2    LowLatency PATH:[  ALI_Virginia      ]-----  81.2ms----->[  ALI_London        ]----- 121.2ms----->[  ALI_Mumbai        ] 
+        ALI_Virginia ---> Honkong-DMZ           RTT:    244.32ms   OriginRTT:    251.91ms  Delta:      -7.59ms Hops: 4    LowLatency PATH:[  ALI_Virginia      ]-----  59.2ms----->[  ALI_SanJose       ]-----   1.9ms----->[  TE_SanJose        ]----- 145.1ms----->[  ALI_Hongkong      ]-----  38.1ms----->[  Honkong-DMZ       ] 
+        ALI_Virginia ---> ALI_Guangzhou         RTT:    231.74ms   OriginRTT:    268.35ms  Delta:     -36.61ms Hops: 4    LowLatency PATH:[  ALI_Virginia      ]-----  59.2ms----->[  ALI_SanJose       ]-----   1.9ms----->[  TE_SanJose        ]----- 103.5ms----->[  ALI_Tokoyo        ]-----  67.2ms----->[  ALI_Guangzhou     ] 
+        ALI_Virginia ---> TE_Tokoyo             RTT:    167.66ms   OriginRTT:    169.30ms  Delta:      -1.65ms Hops: 4    LowLatency PATH:[  ALI_Virginia      ]-----  59.2ms----->[  ALI_SanJose       ]-----   1.9ms----->[  TE_SanJose        ]----- 103.5ms----->[  ALI_Tokoyo        ]-----   3.1ms----->[  TE_Tokoyo         ] 
+        ALI_Virginia ---> ALI_Frankfurt         RTT:     94.61ms   OriginRTT:     97.40ms  Delta:      -2.78ms Hops: 2    LowLatency PATH:[  ALI_Virginia      ]-----  81.2ms----->[  ALI_London        ]-----  13.4ms----->[  ALI_Frankfurt     ] 
+        ALI_Virginia ---> TE_SanJose            RTT:     61.07ms   OriginRTT:     68.17ms  Delta:      -7.10ms Hops: 2    LowLatency PATH:[  ALI_Virginia      ]-----  59.2ms----->[  ALI_SanJose       ]-----   1.9ms----->[  TE_SanJose        ] 
+        ALI_Virginia ---> ALI_Hongkong          RTT:    206.17ms   OriginRTT:    255.53ms  Delta:     -49.36ms Hops: 3    LowLatency PATH:[  ALI_Virginia      ]-----  59.2ms----->[  ALI_SanJose       ]-----   1.9ms----->[  TE_SanJose        ]----- 145.1ms----->[  ALI_Hongkong      ] 
+        ALI_Hongkong ---> ALI_London            RTT:    162.60ms   OriginRTT:    165.52ms  Delta:      -2.92ms Hops: 2    LowLatency PATH:[  ALI_Hongkong      ]----- 149.2ms----->[  ALI_Frankfurt     ]-----  13.4ms----->[  ALI_London        ] 
+        ALI_Hongkong ---> TE_Guangzhou          RTT:     79.89ms   OriginRTT:    347.33ms  Delta:    -267.44ms Hops: 2    LowLatency PATH:[  ALI_Hongkong      ]-----  34.6ms----->[  ALI_Singapore     ]-----  45.3ms----->[  TE_Guangzhou      ] 
+        ALI_Hongkong ---> TE_Moscow             RTT:    191.45ms   OriginRTT:    295.53ms  Delta:    -104.08ms Hops: 2    LowLatency PATH:[  ALI_Hongkong      ]----- 149.2ms----->[  ALI_Frankfurt     ]-----  42.3ms----->[  TE_Moscow         ] 
+        ALI_Hongkong ---> TE_Tokoyo             RTT:     55.44ms   OriginRTT:     58.25ms  Delta:      -2.81ms Hops: 2    LowLatency PATH:[  ALI_Hongkong      ]-----  52.3ms----->[  ALI_Tokoyo        ]-----   3.1ms----->[  TE_Tokoyo         ] 
+        ALI_Hongkong ---> ALI_SanJose           RTT:    147.00ms   OriginRTT:    162.55ms  Delta:     -15.55ms Hops: 2    LowLatency PATH:[  ALI_Hongkong      ]----- 145.1ms----->[  TE_SanJose        ]-----   1.9ms----->[  ALI_SanJose       ] 
+        ALI_Hongkong ---> ALI_Sydney            RTT:    122.52ms   OriginRTT:    125.23ms  Delta:      -2.71ms Hops: 2    LowLatency PATH:[  ALI_Hongkong      ]-----  34.6ms----->[  ALI_Singapore     ]-----  87.9ms----->[  ALI_Sydney        ] 
+        ALI_Hongkong ---> ALI_Virginia          RTT:    206.17ms   OriginRTT:    255.53ms  Delta:     -49.36ms Hops: 3    LowLatency PATH:[  ALI_Hongkong      ]----- 145.1ms----->[  TE_SanJose        ]-----   1.9ms----->[  ALI_SanJose       ]-----  59.2ms----->[  ALI_Virginia      ] 
+          TE_SanJose ---> ALI_Virginia          RTT:     61.07ms   OriginRTT:     68.17ms  Delta:      -7.10ms Hops: 2    LowLatency PATH:[  TE_SanJose        ]-----   1.9ms----->[  ALI_SanJose       ]-----  59.2ms----->[  ALI_Virginia      ] 
+          TE_SanJose ---> ALI_KualaLumpur       RTT:    179.11ms   OriginRTT:    202.50ms  Delta:     -23.39ms Hops: 2    LowLatency PATH:[  TE_SanJose        ]----- 172.0ms----->[  ALI_Singapore     ]-----   7.1ms----->[  ALI_KualaLumpur   ] 
+          TE_SanJose ---> ALI_Chengdu           RTT:    173.97ms   OriginRTT:    238.35ms  Delta:     -64.38ms Hops: 2    LowLatency PATH:[  TE_SanJose        ]----- 103.5ms----->[  ALI_Tokoyo        ]-----  70.5ms----->[  ALI_Chengdu       ] 
+          TE_SanJose ---> TE_Moscow             RTT:    182.30ms   OriginRTT:    194.69ms  Delta:     -12.39ms Hops: 2    LowLatency PATH:[  TE_SanJose        ]-----   1.9ms----->[  ALI_SanJose       ]----- 180.4ms----->[  TE_Moscow         ] 
+          TE_SanJose ---> Honkong-DMZ           RTT:    183.24ms   OriginRTT:    202.57ms  Delta:     -19.33ms Hops: 2    LowLatency PATH:[  TE_SanJose        ]----- 145.1ms----->[  ALI_Hongkong      ]-----  38.1ms----->[  Honkong-DMZ       ] 
+          TE_SanJose ---> ALI_Guangzhou         RTT:    170.66ms   OriginRTT:    177.16ms  Delta:      -6.50ms Hops: 2    LowLatency PATH:[  TE_SanJose        ]----- 103.5ms----->[  ALI_Tokoyo        ]-----  67.2ms----->[  ALI_Guangzhou     ] 
+          TE_SanJose ---> TE_Tokoyo             RTT:    106.58ms   OriginRTT:    208.80ms  Delta:    -102.21ms Hops: 2    LowLatency PATH:[  TE_SanJose        ]----- 103.5ms----->[  ALI_Tokoyo        ]-----   3.1ms----->[  TE_Tokoyo         ] 
+          TE_SanJose ---> ALI_Hangzhou          RTT:    180.16ms   OriginRTT:    218.37ms  Delta:     -38.21ms Hops: 2    LowLatency PATH:[  TE_SanJose        ]----- 103.5ms----->[  ALI_Tokoyo        ]-----  76.7ms----->[  ALI_Hangzhou      ] 
+          TE_SanJose ---> ALI_Mumbai            RTT:    232.90ms   OriginRTT:    264.79ms  Delta:     -31.89ms Hops: 2    LowLatency PATH:[  TE_SanJose        ]----- 145.1ms----->[  ALI_Hongkong      ]-----  87.8ms----->[  ALI_Mumbai        ] 
+          TE_SanJose ---> ALI_Frankfurt         RTT:    146.29ms   OriginRTT:    210.74ms  Delta:     -64.45ms Hops: 2    LowLatency PATH:[  TE_SanJose        ]----- 132.9ms----->[  ALI_London        ]-----  13.4ms----->[  ALI_Frankfurt     ] 
+     ALI_KualaLumpur ---> TE_SanJose            RTT:    179.11ms   OriginRTT:    202.50ms  Delta:     -23.39ms Hops: 2    LowLatency PATH:[  ALI_KualaLumpur   ]-----   7.1ms----->[  ALI_Singapore     ]----- 172.0ms----->[  TE_SanJose        ] 
+     ALI_KualaLumpur ---> ALI_Virginia          RTT:    240.18ms   OriginRTT:    268.47ms  Delta:     -28.29ms Hops: 4    LowLatency PATH:[  ALI_KualaLumpur   ]-----   7.1ms----->[  ALI_Singapore     ]----- 172.0ms----->[  TE_SanJose        ]-----   1.9ms----->[  ALI_SanJose       ]-----  59.2ms----->[  ALI_Virginia      ] 
+     ALI_KualaLumpur ---> ALI_Tokoyo            RTT:     80.27ms   OriginRTT:    100.46ms  Delta:     -20.19ms Hops: 2    LowLatency PATH:[  ALI_KualaLumpur   ]-----  77.2ms----->[  TE_Tokoyo         ]-----   3.1ms----->[  ALI_Tokoyo        ] 
+     ALI_KualaLumpur ---> ALI_Beijing           RTT:     95.57ms   OriginRTT:    229.35ms  Delta:    -133.78ms Hops: 3    LowLatency PATH:[  ALI_KualaLumpur   ]-----   7.1ms----->[  ALI_Singapore     ]-----  45.3ms----->[  TE_Guangzhou      ]-----  43.1ms----->[  ALI_Beijing       ] 
+     ALI_KualaLumpur ---> ALI_Chengdu           RTT:     83.26ms   OriginRTT:    135.14ms  Delta:     -51.88ms Hops: 3    LowLatency PATH:[  ALI_KualaLumpur   ]-----   7.1ms----->[  ALI_Singapore     ]-----  45.3ms----->[  TE_Guangzhou      ]-----  30.8ms----->[  ALI_Chengdu       ] 
+     ALI_KualaLumpur ---> TE_Guangzhou          RTT:     52.45ms   OriginRTT:    179.09ms  Delta:    -126.64ms Hops: 2    LowLatency PATH:[  ALI_KualaLumpur   ]-----   7.1ms----->[  ALI_Singapore     ]-----  45.3ms----->[  TE_Guangzhou      ] 
+     ALI_KualaLumpur ---> TE_Moscow             RTT:    224.01ms   OriginRTT:    274.15ms  Delta:     -50.14ms Hops: 2    LowLatency PATH:[  ALI_KualaLumpur   ]----- 181.7ms----->[  ALI_Frankfurt     ]-----  42.3ms----->[  TE_Moscow         ] 
+     ALI_KualaLumpur ---> ALI_Sydney            RTT:     95.07ms   OriginRTT:    208.98ms  Delta:    -113.91ms Hops: 2    LowLatency PATH:[  ALI_KualaLumpur   ]-----   7.1ms----->[  ALI_Singapore     ]-----  87.9ms----->[  ALI_Sydney        ] 
+     ALI_KualaLumpur ---> ALI_Mumbai            RTT:     69.90ms   OriginRTT:    192.40ms  Delta:    -122.50ms Hops: 2    LowLatency PATH:[  ALI_KualaLumpur   ]-----   7.1ms----->[  ALI_Singapore     ]-----  62.8ms----->[  ALI_Mumbai        ] 
+     ALI_KualaLumpur ---> Honkong-DMZ           RTT:     77.97ms   OriginRTT:     80.74ms  Delta:      -2.78ms Hops: 2    LowLatency PATH:[  ALI_KualaLumpur   ]-----  39.8ms----->[  ALI_Hongkong      ]-----  38.1ms----->[  Honkong-DMZ       ] 
+     ALI_KualaLumpur ---> ALI_Guangzhou         RTT:     78.74ms   OriginRTT:    234.11ms  Delta:    -155.38ms Hops: 2    LowLatency PATH:[  ALI_KualaLumpur   ]-----   7.1ms----->[  ALI_Singapore     ]-----  71.6ms----->[  ALI_Guangzhou     ] 
+     ALI_KualaLumpur ---> ALI_SanJose           RTT:    181.01ms   OriginRTT:    210.97ms  Delta:     -29.95ms Hops: 3    LowLatency PATH:[  ALI_KualaLumpur   ]-----   7.1ms----->[  ALI_Singapore     ]----- 172.0ms----->[  TE_SanJose        ]-----   1.9ms----->[  ALI_SanJose       ] 
+     ALI_KualaLumpur ---> ALI_Hangzhou          RTT:     78.97ms   OriginRTT:     79.50ms  Delta:      -0.53ms Hops: 2    LowLatency PATH:[  ALI_KualaLumpur   ]-----   7.1ms----->[  ALI_Singapore     ]-----  71.8ms----->[  ALI_Hangzhou      ] 
+       ALI_Singapore ---> ALI_Virginia          RTT:    233.05ms   OriginRTT:    246.80ms  Delta:     -13.74ms Hops: 3    LowLatency PATH:[  ALI_Singapore     ]----- 172.0ms----->[  TE_SanJose        ]-----   1.9ms----->[  ALI_SanJose       ]-----  59.2ms----->[  ALI_Virginia      ] 
+       ALI_Singapore ---> ALI_Beijing           RTT:     88.44ms   OriginRTT:     90.50ms  Delta:      -2.06ms Hops: 2    LowLatency PATH:[  ALI_Singapore     ]-----  45.3ms----->[  TE_Guangzhou      ]-----  43.1ms----->[  ALI_Beijing       ] 
+       ALI_Singapore ---> ALI_Chengdu           RTT:     76.13ms   OriginRTT:     80.30ms  Delta:      -4.17ms Hops: 2    LowLatency PATH:[  ALI_Singapore     ]-----  45.3ms----->[  TE_Guangzhou      ]-----  30.8ms----->[  ALI_Chengdu       ] 
+       ALI_Singapore ---> ALI_Tokoyo            RTT:     83.13ms   OriginRTT:     95.63ms  Delta:     -12.50ms Hops: 2    LowLatency PATH:[  ALI_Singapore     ]-----  80.0ms----->[  TE_Tokoyo         ]-----   3.1ms----->[  ALI_Tokoyo        ] 
+       ALI_Singapore ---> ALI_London            RTT:    183.95ms   OriginRTT:    187.65ms  Delta:      -3.71ms Hops: 2    LowLatency PATH:[  ALI_Singapore     ]-----  62.8ms----->[  ALI_Mumbai        ]----- 121.2ms----->[  ALI_London        ] 
+       ALI_Singapore ---> ALI_SanJose           RTT:    173.89ms   OriginRTT:    195.95ms  Delta:     -22.06ms Hops: 2    LowLatency PATH:[  ALI_Singapore     ]----- 172.0ms----->[  TE_SanJose        ]-----   1.9ms----->[  ALI_SanJose       ] 
+       ALI_Singapore ---> Honkong-DMZ           RTT:     72.72ms   OriginRTT:     74.97ms  Delta:      -2.25ms Hops: 2    LowLatency PATH:[  ALI_Singapore     ]-----  34.6ms----->[  ALI_Hongkong      ]-----  38.1ms----->[  Honkong-DMZ       ] 
+       ALI_Singapore ---> ALI_Frankfurt         RTT:    183.74ms   OriginRTT:    194.41ms  Delta:     -10.67ms Hops: 2    LowLatency PATH:[  ALI_Singapore     ]-----  34.6ms----->[  ALI_Hongkong      ]----- 149.2ms----->[  ALI_Frankfurt     ] 
+         ALI_Beijing ---> ALI_Virginia          RTT:    225.11ms   OriginRTT:    232.89ms  Delta:      -7.78ms Hops: 3    LowLatency PATH:[  ALI_Beijing       ]----- 164.0ms----->[  TE_SanJose        ]-----   1.9ms----->[  ALI_SanJose       ]-----  59.2ms----->[  ALI_Virginia      ] 
+         ALI_Beijing ---> ALI_KualaLumpur       RTT:     95.57ms   OriginRTT:    229.35ms  Delta:    -133.78ms Hops: 3    LowLatency PATH:[  ALI_Beijing       ]-----  43.1ms----->[  TE_Guangzhou      ]-----  45.3ms----->[  ALI_Singapore     ]-----   7.1ms----->[  ALI_KualaLumpur   ] 
+         ALI_Beijing ---> ALI_Singapore         RTT:     88.44ms   OriginRTT:     90.50ms  Delta:      -2.06ms Hops: 2    LowLatency PATH:[  ALI_Beijing       ]-----  43.1ms----->[  TE_Guangzhou      ]-----  45.3ms----->[  ALI_Singapore     ] 
+         ALI_Beijing ---> ALI_SanJose           RTT:    165.94ms   OriginRTT:    176.00ms  Delta:     -10.06ms Hops: 2    LowLatency PATH:[  ALI_Beijing       ]----- 164.0ms----->[  TE_SanJose        ]-----   1.9ms----->[  ALI_SanJose       ] 
+         ALI_Beijing ---> ALI_Jakarta           RTT:    102.23ms   OriginRTT:    235.47ms  Delta:    -133.23ms Hops: 3    LowLatency PATH:[  ALI_Beijing       ]-----  43.1ms----->[  TE_Guangzhou      ]-----  45.3ms----->[  ALI_Singapore     ]-----  13.8ms----->[  ALI_Jakarta       ] 
+         ALI_Beijing ---> ALI_Sydney            RTT:    176.39ms   OriginRTT:    220.07ms  Delta:     -43.69ms Hops: 3    LowLatency PATH:[  ALI_Beijing       ]-----  43.1ms----->[  TE_Guangzhou      ]-----  45.3ms----->[  ALI_Singapore     ]-----  87.9ms----->[  ALI_Sydney        ] 
+         ALI_Beijing ---> ALI_Mumbai            RTT:    151.22ms   OriginRTT:    327.07ms  Delta:    -175.85ms Hops: 3    LowLatency PATH:[  ALI_Beijing       ]-----  43.1ms----->[  TE_Guangzhou      ]-----  45.3ms----->[  ALI_Singapore     ]-----  62.8ms----->[  ALI_Mumbai        ] 
+         ALI_Beijing ---> Honkong-DMZ           RTT:     91.07ms   OriginRTT:     96.79ms  Delta:      -5.71ms Hops: 2    LowLatency PATH:[  ALI_Beijing       ]-----  43.1ms----->[  TE_Guangzhou      ]-----  48.0ms----->[  Honkong-DMZ       ] 
+         ALI_Beijing ---> ALI_Frankfurt         RTT:    182.42ms   OriginRTT:    270.04ms  Delta:     -87.62ms Hops: 2    LowLatency PATH:[  ALI_Beijing       ]----- 169.0ms----->[  ALI_London        ]-----  13.4ms----->[  ALI_Frankfurt     ] 
+         ALI_Chengdu ---> TE_SanJose            RTT:    173.97ms   OriginRTT:    238.35ms  Delta:     -64.38ms Hops: 2    LowLatency PATH:[  ALI_Chengdu       ]-----  70.5ms----->[  ALI_Tokoyo        ]----- 103.5ms----->[  TE_SanJose        ] 
+         ALI_Chengdu ---> ALI_Virginia          RTT:    235.04ms   OriginRTT:    293.34ms  Delta:     -58.30ms Hops: 4    LowLatency PATH:[  ALI_Chengdu       ]-----  70.5ms----->[  ALI_Tokoyo        ]----- 103.5ms----->[  TE_SanJose        ]-----   1.9ms----->[  ALI_SanJose       ]-----  59.2ms----->[  ALI_Virginia      ] 
+         ALI_Chengdu ---> ALI_KualaLumpur       RTT:     83.26ms   OriginRTT:    135.14ms  Delta:     -51.88ms Hops: 3    LowLatency PATH:[  ALI_Chengdu       ]-----  30.8ms----->[  TE_Guangzhou      ]-----  45.3ms----->[  ALI_Singapore     ]-----   7.1ms----->[  ALI_KualaLumpur   ] 
+         ALI_Chengdu ---> ALI_Singapore         RTT:     76.13ms   OriginRTT:     80.30ms  Delta:      -4.17ms Hops: 2    LowLatency PATH:[  ALI_Chengdu       ]-----  30.8ms----->[  TE_Guangzhou      ]-----  45.3ms----->[  ALI_Singapore     ] 
+         ALI_Chengdu ---> ALI_London            RTT:    228.95ms   OriginRTT:    250.90ms  Delta:     -21.95ms Hops: 2    LowLatency PATH:[  ALI_Chengdu       ]-----  60.0ms----->[  ALI_Beijing       ]----- 169.0ms----->[  ALI_London        ] 
+         ALI_Chengdu ---> TE_Moscow             RTT:    238.98ms   OriginRTT:    253.42ms  Delta:     -14.44ms Hops: 3    LowLatency PATH:[  ALI_Chengdu       ]-----  70.5ms----->[  ALI_Tokoyo        ]-----   3.1ms----->[  TE_Tokoyo         ]----- 165.4ms----->[  TE_Moscow         ] 
+         ALI_Chengdu ---> ALI_Mumbai            RTT:    138.91ms   OriginRTT:    259.72ms  Delta:    -120.81ms Hops: 3    LowLatency PATH:[  ALI_Chengdu       ]-----  30.8ms----->[  TE_Guangzhou      ]-----  45.3ms----->[  ALI_Singapore     ]-----  62.8ms----->[  ALI_Mumbai        ] 
+         ALI_Chengdu ---> Honkong-DMZ           RTT:     78.77ms   OriginRTT:     82.91ms  Delta:      -4.14ms Hops: 2    LowLatency PATH:[  ALI_Chengdu       ]-----  30.8ms----->[  TE_Guangzhou      ]-----  48.0ms----->[  Honkong-DMZ       ] 
+         ALI_Chengdu ---> TE_Tokoyo             RTT:     73.58ms   OriginRTT:    112.25ms  Delta:     -38.67ms Hops: 2    LowLatency PATH:[  ALI_Chengdu       ]-----  70.5ms----->[  ALI_Tokoyo        ]-----   3.1ms----->[  TE_Tokoyo         ] 
+         ALI_Chengdu ---> ALI_SanJose           RTT:    175.87ms   OriginRTT:    322.97ms  Delta:    -147.10ms Hops: 3    LowLatency PATH:[  ALI_Chengdu       ]-----  70.5ms----->[  ALI_Tokoyo        ]----- 103.5ms----->[  TE_SanJose        ]-----   1.9ms----->[  ALI_SanJose       ] 
+         ALI_Chengdu ---> ALI_Jakarta           RTT:     89.93ms   OriginRTT:    223.61ms  Delta:    -133.68ms Hops: 3    LowLatency PATH:[  ALI_Chengdu       ]-----  30.8ms----->[  TE_Guangzhou      ]-----  45.3ms----->[  ALI_Singapore     ]-----  13.8ms----->[  ALI_Jakarta       ] 
+         ALI_Chengdu ---> ALI_Sydney            RTT:    164.08ms   OriginRTT:    221.27ms  Delta:     -57.19ms Hops: 3    LowLatency PATH:[  ALI_Chengdu       ]-----  30.8ms----->[  TE_Guangzhou      ]-----  45.3ms----->[  ALI_Singapore     ]-----  87.9ms----->[  ALI_Sydney        ] 
+         ALI_Chengdu ---> ALI_Frankfurt         RTT:    231.04ms   OriginRTT:    365.31ms  Delta:    -134.27ms Hops: 2    LowLatency PATH:[  ALI_Chengdu       ]-----  81.9ms----->[  ALI_Hongkong      ]----- 149.2ms----->[  ALI_Frankfurt     ] 
+          ALI_Tokoyo ---> ALI_SanJose           RTT:    105.39ms   OriginRTT:    108.08ms  Delta:      -2.69ms Hops: 2    LowLatency PATH:[  ALI_Tokoyo        ]----- 103.5ms----->[  TE_SanJose        ]-----   1.9ms----->[  ALI_SanJose       ] 
+          ALI_Tokoyo ---> ALI_Jakarta           RTT:     96.92ms   OriginRTT:    107.55ms  Delta:     -10.62ms Hops: 3    LowLatency PATH:[  ALI_Tokoyo        ]-----   3.1ms----->[  TE_Tokoyo         ]-----  80.0ms----->[  ALI_Singapore     ]-----  13.8ms----->[  ALI_Jakarta       ] 
+          ALI_Tokoyo ---> ALI_Sydney            RTT:    143.23ms   OriginRTT:    226.42ms  Delta:     -83.19ms Hops: 2    LowLatency PATH:[  ALI_Tokoyo        ]-----   3.1ms----->[  TE_Tokoyo         ]----- 140.1ms----->[  ALI_Sydney        ] 
+          ALI_Tokoyo ---> ALI_Mumbai            RTT:    140.15ms   OriginRTT:    149.67ms  Delta:      -9.53ms Hops: 2    LowLatency PATH:[  ALI_Tokoyo        ]-----  52.3ms----->[  ALI_Hongkong      ]-----  87.8ms----->[  ALI_Mumbai        ] 
+          ALI_Tokoyo ---> Honkong-DMZ           RTT:     88.33ms   OriginRTT:     89.17ms  Delta:      -0.84ms Hops: 2    LowLatency PATH:[  ALI_Tokoyo        ]-----   3.1ms----->[  TE_Tokoyo         ]-----  85.2ms----->[  Honkong-DMZ       ] 
+          ALI_Tokoyo ---> ALI_Frankfurt         RTT:    201.51ms   OriginRTT:    206.25ms  Delta:      -4.74ms Hops: 2    LowLatency PATH:[  ALI_Tokoyo        ]-----  52.3ms----->[  ALI_Hongkong      ]----- 149.2ms----->[  ALI_Frankfurt     ] 
+          ALI_Tokoyo ---> ALI_Virginia          RTT:    164.56ms   OriginRTT:    179.75ms  Delta:     -15.19ms Hops: 3    LowLatency PATH:[  ALI_Tokoyo        ]----- 103.5ms----->[  TE_SanJose        ]-----   1.9ms----->[  ALI_SanJose       ]-----  59.2ms----->[  ALI_Virginia      ] 
+          ALI_Tokoyo ---> ALI_KualaLumpur       RTT:     80.27ms   OriginRTT:    100.46ms  Delta:     -20.19ms Hops: 2    LowLatency PATH:[  ALI_Tokoyo        ]-----   3.1ms----->[  TE_Tokoyo         ]-----  77.2ms----->[  ALI_KualaLumpur   ] 
+          ALI_Tokoyo ---> ALI_Singapore         RTT:     83.13ms   OriginRTT:     95.63ms  Delta:     -12.50ms Hops: 2    LowLatency PATH:[  ALI_Tokoyo        ]-----   3.1ms----->[  TE_Tokoyo         ]-----  80.0ms----->[  ALI_Singapore     ] 
+          ALI_Tokoyo ---> TE_Moscow             RTT:    168.51ms   OriginRTT:    204.81ms  Delta:     -36.31ms Hops: 2    LowLatency PATH:[  ALI_Tokoyo        ]-----   3.1ms----->[  TE_Tokoyo         ]----- 165.4ms----->[  TE_Moscow         ] 
+          ALI_Tokoyo ---> ALI_London            RTT:    214.94ms   OriginRTT:    297.15ms  Delta:     -82.21ms Hops: 3    LowLatency PATH:[  ALI_Tokoyo        ]-----  52.3ms----->[  ALI_Hongkong      ]----- 149.2ms----->[  ALI_Frankfurt     ]-----  13.4ms----->[  ALI_London        ] 
+---------------------------------------------------Low Drop Rate Path Optimization------------------------------------------------------------------------
+        ALI_Virginia ---> ALI_Beijing           Loss:  0.0%   OriginLoss: 27.0%  Delta: -27.0% Hops: 2    LowDrop PATH:[  ALI_Virginia      ]-----  0.0%----->[  ALI_Sydney        ]-----  0.0%----->[  ALI_Beijing       ] 
+        ALI_Virginia ---> TE_Guangzhou          Loss:  0.0%   OriginLoss: 24.0%  Delta: -24.0% Hops: 2    LowDrop PATH:[  ALI_Virginia      ]-----  0.0%----->[  ALI_Hangzhou      ]-----  0.0%----->[  TE_Guangzhou      ] 
+        ALI_Virginia ---> ALI_Guangzhou         Loss:  0.0%   OriginLoss: 26.0%  Delta: -26.0% Hops: 2    LowDrop PATH:[  ALI_Virginia      ]-----  0.0%----->[  ALI_Sydney        ]-----  0.0%----->[  ALI_Guangzhou     ] 
+        ALI_Virginia ---> TE_Moscow             Loss:  0.0%   OriginLoss:  1.0%  Delta:  -1.0% Hops: 2    LowDrop PATH:[  ALI_Virginia      ]-----  0.0%----->[  ALI_Sydney        ]-----  0.0%----->[  TE_Moscow         ] 
+          ALI_London ---> ALI_Hangzhou          Loss:  0.0%   OriginLoss:  1.0%  Delta:  -1.0% Hops: 2    LowDrop PATH:[  ALI_London        ]-----  0.0%----->[  ALI_Tokoyo        ]-----  0.0%----->[  ALI_Hangzhou      ] 
+          ALI_London ---> ALI_Guangzhou         Loss:  0.0%   OriginLoss:  8.0%  Delta:  -8.0% Hops: 2    LowDrop PATH:[  ALI_London        ]-----  0.0%----->[  Honkong-DMZ       ]-----  0.0%----->[  ALI_Guangzhou     ] 
+          ALI_London ---> ALI_Beijing           Loss:  0.0%   OriginLoss: 35.0%  Delta: -35.0% Hops: 2    LowDrop PATH:[  ALI_London        ]-----  0.0%----->[  Honkong-DMZ       ]-----  0.0%----->[  ALI_Beijing       ] 
+          ALI_London ---> TE_Guangzhou          Loss:  0.0%   OriginLoss: 16.0%  Delta: -16.0% Hops: 2    LowDrop PATH:[  ALI_London        ]-----  0.0%----->[  ALI_Singapore     ]-----  0.0%----->[  TE_Guangzhou      ] 
+          ALI_London ---> TE_Moscow             Loss:  0.0%   OriginLoss:  2.0%  Delta:  -2.0% Hops: 2    LowDrop PATH:[  ALI_London        ]-----  0.0%----->[  Honkong-DMZ       ]-----  0.0%----->[  TE_Moscow         ] 
+          ALI_London ---> ALI_Chengdu           Loss:  0.0%   OriginLoss:  3.0%  Delta:  -3.0% Hops: 2    LowDrop PATH:[  ALI_London        ]-----  0.0%----->[  ALI_Tokoyo        ]-----  0.0%----->[  ALI_Chengdu       ] 
+     ALI_KualaLumpur ---> ALI_Beijing           Loss:  0.0%   OriginLoss: 28.0%  Delta: -28.0% Hops: 2    LowDrop PATH:[  ALI_KualaLumpur   ]-----  0.0%----->[  ALI_Chengdu       ]-----  0.0%----->[  ALI_Beijing       ] 
+     ALI_KualaLumpur ---> TE_Guangzhou          Loss:  0.0%   OriginLoss: 29.0%  Delta: -29.0% Hops: 2    LowDrop PATH:[  ALI_KualaLumpur   ]-----  0.0%----->[  ALI_Chengdu       ]-----  0.0%----->[  TE_Guangzhou      ] 
+     ALI_KualaLumpur ---> ALI_Guangzhou         Loss:  0.0%   OriginLoss: 21.0%  Delta: -21.0% Hops: 2    LowDrop PATH:[  ALI_KualaLumpur   ]-----  0.0%----->[  ALI_Chengdu       ]-----  0.0%----->[  ALI_Guangzhou     ] 
+        ALI_Hangzhou ---> ALI_London            Loss:  0.0%   OriginLoss:  1.0%  Delta:  -1.0% Hops: 2    LowDrop PATH:[  ALI_Hangzhou      ]-----  0.0%----->[  ALI_Mumbai        ]-----  0.0%----->[  ALI_London        ] 
+        ALI_Hangzhou ---> TE_Tokoyo             Loss:  0.0%   OriginLoss:  3.0%  Delta:  -3.0% Hops: 2    LowDrop PATH:[  ALI_Hangzhou      ]-----  0.0%----->[  ALI_Mumbai        ]-----  0.0%----->[  TE_Tokoyo         ] 
+        ALI_Hangzhou ---> TE_SanJose            Loss:  0.0%   OriginLoss: 25.0%  Delta: -25.0% Hops: 2    LowDrop PATH:[  ALI_Hangzhou      ]-----  0.0%----->[  ALI_Mumbai        ]-----  0.0%----->[  TE_SanJose        ] 
+        ALI_Hangzhou ---> ALI_SanJose           Loss:  0.0%   OriginLoss: 10.0%  Delta: -10.0% Hops: 2    LowDrop PATH:[  ALI_Hangzhou      ]-----  0.0%----->[  ALI_Mumbai        ]-----  0.0%----->[  ALI_SanJose       ] 
+        ALI_Hangzhou ---> ALI_Jakarta           Loss:  0.0%   OriginLoss: 12.0%  Delta: -12.0% Hops: 2    LowDrop PATH:[  ALI_Hangzhou      ]-----  0.0%----->[  ALI_Mumbai        ]-----  0.0%----->[  ALI_Jakarta       ] 
+        ALI_Hangzhou ---> TE_Moscow             Loss:  0.0%   OriginLoss:  9.0%  Delta:  -9.0% Hops: 2    LowDrop PATH:[  ALI_Hangzhou      ]-----  0.0%----->[  ALI_Mumbai        ]-----  0.0%----->[  TE_Moscow         ] 
+         ALI_Beijing ---> ALI_Tokoyo            Loss:  0.0%   OriginLoss: 19.0%  Delta: -19.0% Hops: 2    LowDrop PATH:[  ALI_Beijing       ]-----  0.0%----->[  ALI_Sydney        ]-----  0.0%----->[  ALI_Tokoyo        ] 
+         ALI_Beijing ---> ALI_Jakarta           Loss:  0.0%   OriginLoss: 30.0%  Delta: -30.0% Hops: 2    LowDrop PATH:[  ALI_Beijing       ]-----  0.0%----->[  ALI_Sydney        ]-----  0.0%----->[  ALI_Jakarta       ] 
+         ALI_Beijing ---> TE_Moscow             Loss:  0.0%   OriginLoss: 21.0%  Delta: -21.0% Hops: 2    LowDrop PATH:[  ALI_Beijing       ]-----  0.0%----->[  ALI_Sydney        ]-----  0.0%----->[  TE_Moscow         ] 
+         ALI_Beijing ---> TE_SanJose            Loss:  0.0%   OriginLoss: 28.0%  Delta: -28.0% Hops: 2    LowDrop PATH:[  ALI_Beijing       ]-----  0.0%----->[  ALI_Sydney        ]-----  0.0%----->[  TE_SanJose        ] 
+         ALI_Beijing ---> ALI_Virginia          Loss:  0.0%   OriginLoss: 27.0%  Delta: -27.0% Hops: 2    LowDrop PATH:[  ALI_Beijing       ]-----  0.0%----->[  ALI_Sydney        ]-----  0.0%----->[  ALI_Virginia      ] 
+         ALI_Beijing ---> ALI_London            Loss:  0.0%   OriginLoss: 35.0%  Delta: -35.0% Hops: 2    LowDrop PATH:[  ALI_Beijing       ]-----  0.0%----->[  ALI_Sydney        ]-----  0.0%----->[  ALI_London        ] 
+         ALI_Beijing ---> ALI_KualaLumpur       Loss:  0.0%   OriginLoss: 28.0%  Delta: -28.0% Hops: 2    LowDrop PATH:[  ALI_Beijing       ]-----  0.0%----->[  ALI_Sydney        ]-----  0.0%----->[  ALI_KualaLumpur   ] 
+         ALI_Beijing ---> TE_Tokoyo             Loss:  0.0%   OriginLoss:  5.0%  Delta:  -5.0% Hops: 2    LowDrop PATH:[  ALI_Beijing       ]-----  0.0%----->[  ALI_Sydney        ]-----  0.0%----->[  TE_Tokoyo         ] 
+         ALI_Beijing ---> ALI_Mumbai            Loss:  0.0%   OriginLoss: 35.0%  Delta: -35.0% Hops: 2    LowDrop PATH:[  ALI_Beijing       ]-----  0.0%----->[  ALI_Sydney        ]-----  0.0%----->[  ALI_Mumbai        ] 
+         ALI_Beijing ---> ALI_Frankfurt         Loss:  0.0%   OriginLoss:  1.0%  Delta:  -1.0% Hops: 2    LowDrop PATH:[  ALI_Beijing       ]-----  0.0%----->[  ALI_Hongkong      ]-----  0.0%----->[  ALI_Frankfurt     ] 
+          ALI_Mumbai ---> TE_Guangzhou          Loss:  0.0%   OriginLoss:  7.0%  Delta:  -7.0% Hops: 2    LowDrop PATH:[  ALI_Mumbai        ]-----  0.0%----->[  TE_SanJose        ]-----  0.0%----->[  TE_Guangzhou      ] 
+          ALI_Mumbai ---> ALI_Guangzhou         Loss:  0.0%   OriginLoss: 10.0%  Delta: -10.0% Hops: 3    LowDrop PATH:[  ALI_Mumbai        ]-----  0.0%----->[  TE_SanJose        ]-----  0.0%----->[  TE_Guangzhou      ]-----  0.0%----->[  ALI_Guangzhou     ] 
+          ALI_Mumbai ---> ALI_Beijing           Loss:  0.0%   OriginLoss: 35.0%  Delta: -35.0% Hops: 2    LowDrop PATH:[  ALI_Mumbai        ]-----  0.0%----->[  ALI_SanJose       ]-----  0.0%----->[  ALI_Beijing       ] 
+          ALI_Mumbai ---> ALI_Chengdu           Loss:  0.0%   OriginLoss:  8.0%  Delta:  -8.0% Hops: 2    LowDrop PATH:[  ALI_Mumbai        ]-----  0.0%----->[  ALI_Frankfurt     ]-----  0.0%----->[  ALI_Chengdu       ] 
+       ALI_Frankfurt ---> TE_SanJose            Loss:  0.0%   OriginLoss:  3.0%  Delta:  -3.0% Hops: 2    LowDrop PATH:[  ALI_Frankfurt     ]-----  0.0%----->[  ALI_Jakarta       ]-----  0.0%----->[  TE_SanJose        ] 
+       ALI_Frankfurt ---> TE_Guangzhou          Loss:  0.0%   OriginLoss: 17.0%  Delta: -17.0% Hops: 2    LowDrop PATH:[  ALI_Frankfurt     ]-----  0.0%----->[  ALI_Hangzhou      ]-----  0.0%----->[  TE_Guangzhou      ] 
+       ALI_Frankfurt ---> ALI_Guangzhou         Loss:  0.0%   OriginLoss:  3.0%  Delta:  -3.0% Hops: 2    LowDrop PATH:[  ALI_Frankfurt     ]-----  0.0%----->[  ALI_Hangzhou      ]-----  0.0%----->[  ALI_Guangzhou     ] 
+       ALI_Frankfurt ---> ALI_Sydney            Loss:  0.0%   OriginLoss:  1.0%  Delta:  -1.0% Hops: 2    LowDrop PATH:[  ALI_Frankfurt     ]-----  0.0%----->[  ALI_Hangzhou      ]-----  0.0%----->[  ALI_Sydney        ] 
+       ALI_Frankfurt ---> ALI_Beijing           Loss:  0.0%   OriginLoss:  1.0%  Delta:  -1.0% Hops: 2    LowDrop PATH:[  ALI_Frankfurt     ]-----  0.0%----->[  ALI_Hangzhou      ]-----  0.0%----->[  ALI_Beijing       ] 
+        TE_Guangzhou ---> ALI_Hongkong          Loss:  0.0%   OriginLoss: 39.0%  Delta: -39.0% Hops: 2    LowDrop PATH:[  TE_Guangzhou      ]-----  0.0%----->[  TE_SanJose        ]-----  0.0%----->[  ALI_Hongkong      ] 
+        TE_Guangzhou ---> ALI_Tokoyo            Loss:  0.0%   OriginLoss: 25.0%  Delta: -25.0% Hops: 2    LowDrop PATH:[  TE_Guangzhou      ]-----  0.0%----->[  TE_SanJose        ]-----  0.0%----->[  ALI_Tokoyo        ] 
+        TE_Guangzhou ---> ALI_SanJose           Loss:  0.0%   OriginLoss: 39.0%  Delta: -39.0% Hops: 2    LowDrop PATH:[  TE_Guangzhou      ]-----  0.0%----->[  TE_SanJose        ]-----  0.0%----->[  ALI_SanJose       ] 
+        TE_Guangzhou ---> ALI_Jakarta           Loss:  0.0%   OriginLoss: 53.0%  Delta: -53.0% Hops: 2    LowDrop PATH:[  TE_Guangzhou      ]-----  0.0%----->[  TE_SanJose        ]-----  0.0%----->[  ALI_Jakarta       ] 
+        TE_Guangzhou ---> TE_Moscow             Loss:  0.0%   OriginLoss: 27.0%  Delta: -27.0% Hops: 2    LowDrop PATH:[  TE_Guangzhou      ]-----  0.0%----->[  TE_SanJose        ]-----  0.0%----->[  TE_Moscow         ] 
+        TE_Guangzhou ---> Honkong-DMZ           Loss:  0.0%   OriginLoss:  1.0%  Delta:  -1.0% Hops: 2    LowDrop PATH:[  TE_Guangzhou      ]-----  0.0%----->[  TE_SanJose        ]-----  0.0%----->[  Honkong-DMZ       ] 
+        TE_Guangzhou ---> ALI_KualaLumpur       Loss:  0.0%   OriginLoss: 29.0%  Delta: -29.0% Hops: 2    LowDrop PATH:[  TE_Guangzhou      ]-----  0.0%----->[  TE_SanJose        ]-----  0.0%----->[  ALI_KualaLumpur   ] 
+        TE_Guangzhou ---> ALI_Virginia          Loss:  0.0%   OriginLoss: 24.0%  Delta: -24.0% Hops: 2    LowDrop PATH:[  TE_Guangzhou      ]-----  0.0%----->[  TE_SanJose        ]-----  0.0%----->[  ALI_Virginia      ] 
+        TE_Guangzhou ---> ALI_London            Loss:  0.0%   OriginLoss: 16.0%  Delta: -16.0% Hops: 2    LowDrop PATH:[  TE_Guangzhou      ]-----  0.0%----->[  TE_SanJose        ]-----  0.0%----->[  ALI_London        ] 
+        TE_Guangzhou ---> TE_Tokoyo             Loss:  0.0%   OriginLoss:  8.0%  Delta:  -8.0% Hops: 2    LowDrop PATH:[  TE_Guangzhou      ]-----  0.0%----->[  TE_SanJose        ]-----  0.0%----->[  TE_Tokoyo         ] 
+        TE_Guangzhou ---> ALI_Sydney            Loss:  0.0%   OriginLoss:  3.0%  Delta:  -3.0% Hops: 2    LowDrop PATH:[  TE_Guangzhou      ]-----  0.0%----->[  TE_SanJose        ]-----  0.0%----->[  ALI_Sydney        ] 
+        TE_Guangzhou ---> ALI_Mumbai            Loss:  0.0%   OriginLoss:  7.0%  Delta:  -7.0% Hops: 2    LowDrop PATH:[  TE_Guangzhou      ]-----  0.0%----->[  TE_SanJose        ]-----  0.0%----->[  ALI_Mumbai        ] 
+        TE_Guangzhou ---> ALI_Frankfurt         Loss:  0.0%   OriginLoss: 17.0%  Delta: -17.0% Hops: 2    LowDrop PATH:[  TE_Guangzhou      ]-----  0.0%----->[  ALI_Chengdu       ]-----  0.0%----->[  ALI_Frankfurt     ] 
+       ALI_Guangzhou ---> ALI_Virginia          Loss:  0.0%   OriginLoss: 26.0%  Delta: -26.0% Hops: 2    LowDrop PATH:[  ALI_Guangzhou     ]-----  0.0%----->[  ALI_Singapore     ]-----  0.0%----->[  ALI_Virginia      ] 
+       ALI_Guangzhou ---> ALI_London            Loss:  0.0%   OriginLoss:  8.0%  Delta:  -8.0% Hops: 2    LowDrop PATH:[  ALI_Guangzhou     ]-----  0.0%----->[  ALI_Singapore     ]-----  0.0%----->[  ALI_London        ] 
+       ALI_Guangzhou ---> ALI_KualaLumpur       Loss:  0.0%   OriginLoss: 21.0%  Delta: -21.0% Hops: 2    LowDrop PATH:[  ALI_Guangzhou     ]-----  0.0%----->[  ALI_Singapore     ]-----  0.0%----->[  ALI_KualaLumpur   ] 
+       ALI_Guangzhou ---> ALI_Mumbai            Loss:  0.0%   OriginLoss: 10.0%  Delta: -10.0% Hops: 2    LowDrop PATH:[  ALI_Guangzhou     ]-----  0.0%----->[  ALI_Singapore     ]-----  0.0%----->[  ALI_Mumbai        ] 
+       ALI_Guangzhou ---> ALI_Frankfurt         Loss:  0.0%   OriginLoss:  3.0%  Delta:  -3.0% Hops: 2    LowDrop PATH:[  ALI_Guangzhou     ]-----  0.0%----->[  ALI_Singapore     ]-----  0.0%----->[  ALI_Frankfurt     ] 
+       ALI_Guangzhou ---> TE_Tokoyo             Loss:  0.0%   OriginLoss: 17.0%  Delta: -17.0% Hops: 2    LowDrop PATH:[  ALI_Guangzhou     ]-----  0.0%----->[  ALI_Singapore     ]-----  0.0%----->[  TE_Tokoyo         ] 
+       ALI_Guangzhou ---> ALI_Tokoyo            Loss:  0.0%   OriginLoss: 23.0%  Delta: -23.0% Hops: 2    LowDrop PATH:[  ALI_Guangzhou     ]-----  0.0%----->[  ALI_Singapore     ]-----  0.0%----->[  ALI_Tokoyo        ] 
+       ALI_Guangzhou ---> ALI_Jakarta           Loss:  0.0%   OriginLoss: 21.0%  Delta: -21.0% Hops: 2    LowDrop PATH:[  ALI_Guangzhou     ]-----  0.0%----->[  ALI_Singapore     ]-----  0.0%----->[  ALI_Jakarta       ] 
+       ALI_Guangzhou ---> TE_SanJose            Loss:  0.0%   OriginLoss: 30.0%  Delta: -30.0% Hops: 2    LowDrop PATH:[  ALI_Guangzhou     ]-----  0.0%----->[  ALI_Singapore     ]-----  0.0%----->[  TE_SanJose        ] 
+       ALI_Guangzhou ---> ALI_SanJose           Loss:  0.0%   OriginLoss: 20.0%  Delta: -20.0% Hops: 2    LowDrop PATH:[  ALI_Guangzhou     ]-----  0.0%----->[  ALI_Singapore     ]-----  0.0%----->[  ALI_SanJose       ] 
+           TE_Tokoyo ---> ALI_Chengdu           Loss:  0.0%   OriginLoss: 11.0%  Delta: -11.0% Hops: 2    LowDrop PATH:[  TE_Tokoyo         ]-----  0.0%----->[  ALI_KualaLumpur   ]-----  0.0%----->[  ALI_Chengdu       ] 
+           TE_Tokoyo ---> ALI_Hangzhou          Loss:  0.0%   OriginLoss:  3.0%  Delta:  -3.0% Hops: 2    LowDrop PATH:[  TE_Tokoyo         ]-----  0.0%----->[  ALI_KualaLumpur   ]-----  0.0%----->[  ALI_Hangzhou      ] 
+           TE_Tokoyo ---> ALI_Beijing           Loss:  0.0%   OriginLoss:  5.0%  Delta:  -5.0% Hops: 2    LowDrop PATH:[  TE_Tokoyo         ]-----  0.0%----->[  Honkong-DMZ       ]-----  0.0%----->[  ALI_Beijing       ] 
+           TE_Tokoyo ---> TE_Guangzhou          Loss:  0.0%   OriginLoss:  8.0%  Delta:  -8.0% Hops: 3    LowDrop PATH:[  TE_Tokoyo         ]-----  0.0%----->[  Honkong-DMZ       ]-----  0.0%----->[  ALI_Guangzhou     ]-----  0.0%----->[  TE_Guangzhou      ] 
+           TE_Tokoyo ---> ALI_Guangzhou         Loss:  0.0%   OriginLoss: 17.0%  Delta: -17.0% Hops: 2    LowDrop PATH:[  TE_Tokoyo         ]-----  0.0%----->[  Honkong-DMZ       ]-----  0.0%----->[  ALI_Guangzhou     ] 
+          ALI_Sydney ---> TE_Guangzhou          Loss:  0.0%   OriginLoss:  3.0%  Delta:  -3.0% Hops: 2    LowDrop PATH:[  ALI_Sydney        ]-----  0.0%----->[  ALI_Chengdu       ]-----  0.0%----->[  TE_Guangzhou      ] 
+          ALI_Sydney ---> ALI_Frankfurt         Loss:  0.0%   OriginLoss:  1.0%  Delta:  -1.0% Hops: 2    LowDrop PATH:[  ALI_Sydney        ]-----  0.0%----->[  Honkong-DMZ       ]-----  0.0%----->[  ALI_Frankfurt     ] 
+          ALI_Tokoyo ---> TE_Moscow             Loss:  0.0%   OriginLoss:  1.0%  Delta:  -1.0% Hops: 2    LowDrop PATH:[  ALI_Tokoyo        ]-----  0.0%----->[  ALI_SanJose       ]-----  0.0%----->[  TE_Moscow         ] 
+          ALI_Tokoyo ---> TE_Guangzhou          Loss:  0.0%   OriginLoss: 25.0%  Delta: -25.0% Hops: 2    LowDrop PATH:[  ALI_Tokoyo        ]-----  0.0%----->[  TE_SanJose        ]-----  0.0%----->[  TE_Guangzhou      ] 
+          ALI_Tokoyo ---> ALI_Guangzhou         Loss:  0.0%   OriginLoss: 23.0%  Delta: -23.0% Hops: 3    LowDrop PATH:[  ALI_Tokoyo        ]-----  0.0%----->[  ALI_SanJose       ]-----  0.0%----->[  ALI_Beijing       ]-----  0.0%----->[  ALI_Guangzhou     ] 
+          ALI_Tokoyo ---> ALI_Beijing           Loss:  0.0%   OriginLoss: 19.0%  Delta: -19.0% Hops: 2    LowDrop PATH:[  ALI_Tokoyo        ]-----  0.0%----->[  ALI_SanJose       ]-----  0.0%----->[  ALI_Beijing       ] 
+        ALI_Hongkong ---> TE_Guangzhou          Loss:  0.0%   OriginLoss: 39.0%  Delta: -39.0% Hops: 2    LowDrop PATH:[  ALI_Hongkong      ]-----  0.0%----->[  ALI_Hangzhou      ]-----  0.0%----->[  TE_Guangzhou      ] 
+           TE_Moscow ---> ALI_Beijing           Loss:  0.0%   OriginLoss: 21.0%  Delta: -21.0% Hops: 2    LowDrop PATH:[  TE_Moscow         ]-----  0.0%----->[  ALI_SanJose       ]-----  0.0%----->[  ALI_Beijing       ] 
+           TE_Moscow ---> TE_Guangzhou          Loss:  0.0%   OriginLoss: 27.0%  Delta: -27.0% Hops: 3    LowDrop PATH:[  TE_Moscow         ]-----  0.0%----->[  ALI_KualaLumpur   ]-----  0.0%----->[  ALI_Chengdu       ]-----  0.0%----->[  TE_Guangzhou      ] 
+           TE_Moscow ---> ALI_Tokoyo            Loss:  0.0%   OriginLoss:  1.0%  Delta:  -1.0% Hops: 2    LowDrop PATH:[  TE_Moscow         ]-----  0.0%----->[  ALI_SanJose       ]-----  0.0%----->[  ALI_Tokoyo        ] 
+           TE_Moscow ---> ALI_Chengdu           Loss:  0.0%   OriginLoss:  7.0%  Delta:  -7.0% Hops: 2    LowDrop PATH:[  TE_Moscow         ]-----  0.0%----->[  ALI_KualaLumpur   ]-----  0.0%----->[  ALI_Chengdu       ] 
+           TE_Moscow ---> ALI_Hangzhou          Loss:  0.0%   OriginLoss:  9.0%  Delta:  -9.0% Hops: 2    LowDrop PATH:[  TE_Moscow         ]-----  0.0%----->[  ALI_KualaLumpur   ]-----  0.0%----->[  ALI_Hangzhou      ] 
+           TE_Moscow ---> ALI_Virginia          Loss:  0.0%   OriginLoss:  1.0%  Delta:  -1.0% Hops: 2    LowDrop PATH:[  TE_Moscow         ]-----  0.0%----->[  ALI_SanJose       ]-----  0.0%----->[  ALI_Virginia      ] 
+           TE_Moscow ---> ALI_London            Loss:  0.0%   OriginLoss:  2.0%  Delta:  -2.0% Hops: 2    LowDrop PATH:[  TE_Moscow         ]-----  0.0%----->[  ALI_SanJose       ]-----  0.0%----->[  ALI_London        ] 
+         ALI_Chengdu ---> ALI_London            Loss:  0.0%   OriginLoss:  3.0%  Delta:  -3.0% Hops: 2    LowDrop PATH:[  ALI_Chengdu       ]-----  0.0%----->[  ALI_Hongkong      ]-----  0.0%----->[  ALI_London        ] 
+         ALI_Chengdu ---> TE_Tokoyo             Loss:  0.0%   OriginLoss: 11.0%  Delta: -11.0% Hops: 2    LowDrop PATH:[  ALI_Chengdu       ]-----  0.0%----->[  ALI_Hongkong      ]-----  0.0%----->[  TE_Tokoyo         ] 
+         ALI_Chengdu ---> ALI_Mumbai            Loss:  0.0%   OriginLoss:  8.0%  Delta:  -8.0% Hops: 2    LowDrop PATH:[  ALI_Chengdu       ]-----  0.0%----->[  ALI_Hongkong      ]-----  0.0%----->[  ALI_Mumbai        ] 
+         ALI_Chengdu ---> TE_SanJose            Loss:  0.0%   OriginLoss: 32.0%  Delta: -32.0% Hops: 2    LowDrop PATH:[  ALI_Chengdu       ]-----  0.0%----->[  ALI_Hongkong      ]-----  0.0%----->[  TE_SanJose        ] 
+         ALI_Chengdu ---> ALI_SanJose           Loss:  0.0%   OriginLoss: 16.0%  Delta: -16.0% Hops: 2    LowDrop PATH:[  ALI_Chengdu       ]-----  0.0%----->[  ALI_Hongkong      ]-----  0.0%----->[  ALI_SanJose       ] 
+         ALI_Chengdu ---> ALI_Jakarta           Loss:  0.0%   OriginLoss: 14.0%  Delta: -14.0% Hops: 2    LowDrop PATH:[  ALI_Chengdu       ]-----  0.0%----->[  ALI_Hongkong      ]-----  0.0%----->[  ALI_Jakarta       ] 
+         ALI_Chengdu ---> TE_Moscow             Loss:  0.0%   OriginLoss:  7.0%  Delta:  -7.0% Hops: 2    LowDrop PATH:[  ALI_Chengdu       ]-----  0.0%----->[  ALI_Hongkong      ]-----  0.0%----->[  TE_Moscow         ] 
+         Honkong-DMZ ---> TE_Guangzhou          Loss:  0.0%   OriginLoss:  1.0%  Delta:  -1.0% Hops: 2    LowDrop PATH:[  Honkong-DMZ       ]-----  0.0%----->[  ALI_Guangzhou     ]-----  0.0%----->[  TE_Guangzhou      ] 
+         Honkong-DMZ ---> ALI_Jakarta           Loss:  0.0%   OriginLoss:  1.0%  Delta:  -1.0% Hops: 2    LowDrop PATH:[  Honkong-DMZ       ]-----  0.0%----->[  ALI_Sydney        ]-----  0.0%----->[  ALI_Jakarta       ] 
+          TE_SanJose ---> ALI_Beijing           Loss:  0.0%   OriginLoss: 28.0%  Delta: -28.0% Hops: 2    LowDrop PATH:[  TE_SanJose        ]-----  0.0%----->[  ALI_Hongkong      ]-----  0.0%----->[  ALI_Beijing       ] 
+          TE_SanJose ---> ALI_Frankfurt         Loss:  0.0%   OriginLoss:  3.0%  Delta:  -3.0% Hops: 2    LowDrop PATH:[  TE_SanJose        ]-----  0.0%----->[  ALI_Hongkong      ]-----  0.0%----->[  ALI_Frankfurt     ] 
+          TE_SanJose ---> ALI_Guangzhou         Loss:  0.0%   OriginLoss: 30.0%  Delta: -30.0% Hops: 2    LowDrop PATH:[  TE_SanJose        ]-----  0.0%----->[  ALI_Hongkong      ]-----  0.0%----->[  ALI_Guangzhou     ] 
+          TE_SanJose ---> ALI_Chengdu           Loss:  0.0%   OriginLoss: 32.0%  Delta: -32.0% Hops: 2    LowDrop PATH:[  TE_SanJose        ]-----  0.0%----->[  ALI_Hongkong      ]-----  0.0%----->[  ALI_Chengdu       ] 
+          TE_SanJose ---> ALI_Hangzhou          Loss:  0.0%   OriginLoss: 25.0%  Delta: -25.0% Hops: 2    LowDrop PATH:[  TE_SanJose        ]-----  0.0%----->[  ALI_Hongkong      ]-----  0.0%----->[  ALI_Hangzhou      ] 
+         ALI_SanJose ---> ALI_Hangzhou          Loss:  0.0%   OriginLoss: 10.0%  Delta: -10.0% Hops: 2    LowDrop PATH:[  ALI_SanJose       ]-----  0.0%----->[  ALI_Sydney        ]-----  0.0%----->[  ALI_Hangzhou      ] 
+         ALI_SanJose ---> TE_Guangzhou          Loss:  0.0%   OriginLoss: 39.0%  Delta: -39.0% Hops: 2    LowDrop PATH:[  ALI_SanJose       ]-----  0.0%----->[  ALI_Singapore     ]-----  0.0%----->[  TE_Guangzhou      ] 
+         ALI_SanJose ---> ALI_Guangzhou         Loss:  0.0%   OriginLoss: 20.0%  Delta: -20.0% Hops: 2    LowDrop PATH:[  ALI_SanJose       ]-----  0.0%----->[  ALI_Sydney        ]-----  0.0%----->[  ALI_Guangzhou     ] 
+         ALI_SanJose ---> ALI_Chengdu           Loss:  0.0%   OriginLoss: 16.0%  Delta: -16.0% Hops: 2    LowDrop PATH:[  ALI_SanJose       ]-----  0.0%----->[  ALI_Sydney        ]-----  0.0%----->[  ALI_Chengdu       ] 
+         ALI_Jakarta ---> Honkong-DMZ           Loss:  0.0%   OriginLoss:  1.0%  Delta:  -1.0% Hops: 2    LowDrop PATH:[  ALI_Jakarta       ]-----  0.0%----->[  ALI_Sydney        ]-----  0.0%----->[  Honkong-DMZ       ] 
+         ALI_Jakarta ---> ALI_Chengdu           Loss:  0.0%   OriginLoss: 14.0%  Delta: -14.0% Hops: 2    LowDrop PATH:[  ALI_Jakarta       ]-----  0.0%----->[  ALI_Sydney        ]-----  0.0%----->[  ALI_Chengdu       ] 
+         ALI_Jakarta ---> ALI_Hangzhou          Loss:  0.0%   OriginLoss: 12.0%  Delta: -12.0% Hops: 2    LowDrop PATH:[  ALI_Jakarta       ]-----  0.0%----->[  ALI_Sydney        ]-----  0.0%----->[  ALI_Hangzhou      ] 
+         ALI_Jakarta ---> TE_Guangzhou          Loss:  0.0%   OriginLoss: 53.0%  Delta: -53.0% Hops: 3    LowDrop PATH:[  ALI_Jakarta       ]-----  0.0%----->[  ALI_Sydney        ]-----  0.0%----->[  ALI_Guangzhou     ]-----  0.0%----->[  TE_Guangzhou      ] 
+         ALI_Jakarta ---> ALI_Guangzhou         Loss:  0.0%   OriginLoss: 21.0%  Delta: -21.0% Hops: 2    LowDrop PATH:[  ALI_Jakarta       ]-----  0.0%----->[  ALI_Sydney        ]-----  0.0%----->[  ALI_Guangzhou     ] 
+         ALI_Jakarta ---> ALI_Beijing           Loss:  0.0%   OriginLoss: 30.0%  Delta: -30.0% Hops: 2    LowDrop PATH:[  ALI_Jakarta       ]-----  0.0%----->[  ALI_Sydney        ]-----  0.0%----->[  ALI_Beijing       ] 

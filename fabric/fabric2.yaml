@@ -4,5 +4,5 @@ systemID: Spine_Fabric_B
 controller: [192.168.99.71:443]
 srloc: [ MPLS|1000|1000|192.168.99.76:17777|  ]
 rekey: 12
-Lat: 31.224
-Long: 121.469
+lat: 31.224
+long: 121.469
